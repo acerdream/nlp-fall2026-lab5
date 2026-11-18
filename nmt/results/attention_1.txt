@@ -1,0 +1,4 @@
+Sentence: 黑猫坐在红色的地毯上。
+Translation: the old man is a greatbit .
+Source tokens: 黑 猫 坐在 红 色的 地 毯 上 。
+Target tokens: ▁the ▁old ▁man ▁is ▁a ▁great b it ▁.

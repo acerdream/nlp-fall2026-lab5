@@ -1,0 +1,6 @@
+steps=4230
+best_val_ppl=86.8695
+best_step=4200
+train_seconds=181.03
+parameters=398336
+device=device=cuda:0 / NVIDIA GeForce GTX 1080 Ti (10.9 GiB, CUDA 12.1)

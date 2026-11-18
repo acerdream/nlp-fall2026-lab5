@@ -1,0 +1,524 @@
+[2026-11-18 07:28:39] 开始训练
+device=cuda:0 / NVIDIA GeForce GTX 1080 Ti (10.9 GiB, CUDA 12.1)
+源语言词表 3200，目标语言词表 3200
+训练集 9000 对，验证集 500 对
+模型参数量 398,336
+数据加载耗时 2.1s
+[2026-11-18 07:28:43] step 10/4230 | epoch 1 | train loss 7.9126
+[2026-11-18 07:28:43] step 20/4230 | epoch 1 | train loss 7.7233
+[2026-11-18 07:28:43] step 30/4230 | epoch 1 | train loss 7.5661
+[2026-11-18 07:28:44] step 40/4230 | epoch 1 | train loss 7.4283
+[2026-11-18 07:28:44] step 50/4230 | epoch 1 | train loss 7.2970
+[2026-11-18 07:28:45] step 60/4230 | epoch 1 | train loss 7.1732
+[2026-11-18 07:28:45] step 70/4230 | epoch 1 | train loss 7.0607
+[2026-11-18 07:28:45] step 80/4230 | epoch 1 | train loss 6.9544
+[2026-11-18 07:28:46] step 90/4230 | epoch 1 | train loss 6.8589
+[2026-11-18 07:28:46] step 100/4230 | epoch 1 | train loss 6.7672
+[2026-11-18 07:28:46] step 100 | val loss 5.9554 | val ppl 385.83
+[2026-11-18 07:28:46] 保存最佳模型：step 100，ppl 385.83
+[2026-11-18 07:28:47] step 110/4230 | epoch 1 | train loss 6.6883
+[2026-11-18 07:28:47] step 120/4230 | epoch 1 | train loss 6.6198
+[2026-11-18 07:28:48] step 130/4230 | epoch 1 | train loss 6.5575
+[2026-11-18 07:28:48] step 140/4230 | epoch 1 | train loss 6.5083
+[2026-11-18 07:28:48] step 150/4230 | epoch 1 | train loss 6.4620
+[2026-11-18 07:28:49] step 160/4230 | epoch 1 | train loss 6.4160
+[2026-11-18 07:28:49] step 170/4230 | epoch 1 | train loss 6.3768
+[2026-11-18 07:28:50] step 180/4230 | epoch 1 | train loss 6.3387
+[2026-11-18 07:28:50] step 190/4230 | epoch 1 | train loss 6.3020
+[2026-11-18 07:28:50] step 200/4230 | epoch 1 | train loss 6.2684
+[2026-11-18 07:28:50] step 200 | val loss 5.6300 | val ppl 278.66
+[2026-11-18 07:28:50] 保存最佳模型：step 200，ppl 278.66
+[2026-11-18 07:28:51] step 210/4230 | epoch 1 | train loss 6.2382
+[2026-11-18 07:28:51] step 220/4230 | epoch 1 | train loss 6.2100
+[2026-11-18 07:28:52] step 230/4230 | epoch 1 | train loss 6.1826
+[2026-11-18 07:28:52] step 240/4230 | epoch 1 | train loss 6.1575
+[2026-11-18 07:28:52] step 250/4230 | epoch 1 | train loss 6.1331
+[2026-11-18 07:28:53] step 260/4230 | epoch 1 | train loss 6.1097
+[2026-11-18 07:28:53] step 270/4230 | epoch 1 | train loss 6.0880
+[2026-11-18 07:28:54] step 280/4230 | epoch 1 | train loss 6.0644
+[2026-11-18 07:28:54] epoch 1 完成 | 平均 loss 6.0610 | 耗时 12.2s
+[2026-11-18 07:28:54] step 290/4230 | epoch 2 | train loss 5.5235
+[2026-11-18 07:28:55] step 300/4230 | epoch 2 | train loss 5.4666
+[2026-11-18 07:28:55] step 300 | val loss 5.4933 | val ppl 243.06
+[2026-11-18 07:28:55] 保存最佳模型：step 300，ppl 243.06
+[2026-11-18 07:28:55] step 310/4230 | epoch 2 | train loss 5.4620
+[2026-11-18 07:28:56] step 320/4230 | epoch 2 | train loss 5.4515
+[2026-11-18 07:28:56] step 330/4230 | epoch 2 | train loss 5.4462
+[2026-11-18 07:28:57] step 340/4230 | epoch 2 | train loss 5.4360
+[2026-11-18 07:28:57] step 350/4230 | epoch 2 | train loss 5.4338
+[2026-11-18 07:28:57] step 360/4230 | epoch 2 | train loss 5.4275
+[2026-11-18 07:28:58] step 370/4230 | epoch 2 | train loss 5.4293
+[2026-11-18 07:28:58] step 380/4230 | epoch 2 | train loss 5.4292
+[2026-11-18 07:28:59] step 390/4230 | epoch 2 | train loss 5.4231
+[2026-11-18 07:28:59] step 400/4230 | epoch 2 | train loss 5.4151
+[2026-11-18 07:28:59] step 400 | val loss 5.4076 | val ppl 223.09
+[2026-11-18 07:28:59] 保存最佳模型：step 400，ppl 223.09
+[2026-11-18 07:29:00] step 410/4230 | epoch 2 | train loss 5.4086
+[2026-11-18 07:29:00] step 420/4230 | epoch 2 | train loss 5.4055
+[2026-11-18 07:29:00] step 430/4230 | epoch 2 | train loss 5.4092
+[2026-11-18 07:29:01] step 440/4230 | epoch 2 | train loss 5.4058
+[2026-11-18 07:29:01] step 450/4230 | epoch 2 | train loss 5.4053
+[2026-11-18 07:29:02] step 460/4230 | epoch 2 | train loss 5.3983
+[2026-11-18 07:29:02] step 470/4230 | epoch 2 | train loss 5.3966
+[2026-11-18 07:29:02] step 480/4230 | epoch 2 | train loss 5.3906
+[2026-11-18 07:29:03] step 490/4230 | epoch 2 | train loss 5.3858
+[2026-11-18 07:29:03] step 500/4230 | epoch 2 | train loss 5.3821
+[2026-11-18 07:29:03] step 500 | val loss 5.3507 | val ppl 210.76
+[2026-11-18 07:29:03] 保存最佳模型：step 500，ppl 210.76
+[2026-11-18 07:29:04] step 510/4230 | epoch 2 | train loss 5.3784
+[2026-11-18 07:29:04] step 520/4230 | epoch 2 | train loss 5.3742
+[2026-11-18 07:29:05] step 530/4230 | epoch 2 | train loss 5.3717
+[2026-11-18 07:29:05] step 540/4230 | epoch 2 | train loss 5.3704
+[2026-11-18 07:29:05] step 550/4230 | epoch 2 | train loss 5.3678
+[2026-11-18 07:29:06] step 560/4230 | epoch 2 | train loss 5.3635
+[2026-11-18 07:29:06] epoch 2 完成 | 平均 loss 5.3625 | 耗时 12.0s
+[2026-11-18 07:29:06] step 570/4230 | epoch 3 | train loss 5.2157
+[2026-11-18 07:29:07] step 580/4230 | epoch 3 | train loss 5.2400
+[2026-11-18 07:29:07] step 590/4230 | epoch 3 | train loss 5.2049
+[2026-11-18 07:29:08] step 600/4230 | epoch 3 | train loss 5.2085
+[2026-11-18 07:29:08] step 600 | val loss 5.2484 | val ppl 190.26
+[2026-11-18 07:29:08] 保存最佳模型：step 600，ppl 190.26
+[2026-11-18 07:29:08] step 610/4230 | epoch 3 | train loss 5.2031
+[2026-11-18 07:29:09] step 620/4230 | epoch 3 | train loss 5.1976
+[2026-11-18 07:29:09] step 630/4230 | epoch 3 | train loss 5.1850
+[2026-11-18 07:29:09] step 640/4230 | epoch 3 | train loss 5.1852
+[2026-11-18 07:29:10] step 650/4230 | epoch 3 | train loss 5.1857
+[2026-11-18 07:29:10] step 660/4230 | epoch 3 | train loss 5.1752
+[2026-11-18 07:29:11] step 670/4230 | epoch 3 | train loss 5.1735
+[2026-11-18 07:29:11] step 680/4230 | epoch 3 | train loss 5.1697
+[2026-11-18 07:29:11] step 690/4230 | epoch 3 | train loss 5.1692
+[2026-11-18 07:29:12] step 700/4230 | epoch 3 | train loss 5.1632
+[2026-11-18 07:29:12] step 700 | val loss 5.1916 | val ppl 179.75
+[2026-11-18 07:29:12] 保存最佳模型：step 700，ppl 179.75
+[2026-11-18 07:29:12] step 710/4230 | epoch 3 | train loss 5.1569
+[2026-11-18 07:29:13] step 720/4230 | epoch 3 | train loss 5.1581
+[2026-11-18 07:29:13] step 730/4230 | epoch 3 | train loss 5.1553
+[2026-11-18 07:29:14] step 740/4230 | epoch 3 | train loss 5.1521
+[2026-11-18 07:29:14] step 750/4230 | epoch 3 | train loss 5.1465
+[2026-11-18 07:29:14] step 760/4230 | epoch 3 | train loss 5.1441
+[2026-11-18 07:29:15] step 770/4230 | epoch 3 | train loss 5.1409
+[2026-11-18 07:29:15] step 780/4230 | epoch 3 | train loss 5.1369
+[2026-11-18 07:29:16] step 790/4230 | epoch 3 | train loss 5.1329
+[2026-11-18 07:29:16] step 800/4230 | epoch 3 | train loss 5.1286
+[2026-11-18 07:29:16] step 800 | val loss 5.1102 | val ppl 165.70
+[2026-11-18 07:29:16] 保存最佳模型：step 800，ppl 165.70
+[2026-11-18 07:29:16] step 810/4230 | epoch 3 | train loss 5.1253
+[2026-11-18 07:29:17] step 820/4230 | epoch 3 | train loss 5.1211
+[2026-11-18 07:29:17] step 830/4230 | epoch 3 | train loss 5.1168
+[2026-11-18 07:29:18] step 840/4230 | epoch 3 | train loss 5.1150
+[2026-11-18 07:29:18] epoch 3 完成 | 平均 loss 5.1117 | 耗时 11.6s
+[2026-11-18 07:29:18] step 850/4230 | epoch 4 | train loss 5.0121
+[2026-11-18 07:29:19] step 860/4230 | epoch 4 | train loss 4.9869
+[2026-11-18 07:29:19] step 870/4230 | epoch 4 | train loss 4.9609
+[2026-11-18 07:29:19] step 880/4230 | epoch 4 | train loss 4.9612
+[2026-11-18 07:29:20] step 890/4230 | epoch 4 | train loss 4.9530
+[2026-11-18 07:29:20] step 900/4230 | epoch 4 | train loss 4.9502
+[2026-11-18 07:29:20] step 900 | val loss 5.0594 | val ppl 157.50
+[2026-11-18 07:29:20] 保存最佳模型：step 900，ppl 157.50
+[2026-11-18 07:29:21] step 910/4230 | epoch 4 | train loss 4.9533
+[2026-11-18 07:29:21] step 920/4230 | epoch 4 | train loss 4.9520
+[2026-11-18 07:29:22] step 930/4230 | epoch 4 | train loss 4.9450
+[2026-11-18 07:29:22] step 940/4230 | epoch 4 | train loss 4.9470
+[2026-11-18 07:29:22] step 950/4230 | epoch 4 | train loss 4.9436
+[2026-11-18 07:29:23] step 960/4230 | epoch 4 | train loss 4.9446
+[2026-11-18 07:29:23] step 970/4230 | epoch 4 | train loss 4.9352
+[2026-11-18 07:29:24] step 980/4230 | epoch 4 | train loss 4.9324
+[2026-11-18 07:29:24] step 990/4230 | epoch 4 | train loss 4.9331
+[2026-11-18 07:29:24] step 1000/4230 | epoch 4 | train loss 4.9247
+[2026-11-18 07:29:24] step 1000 | val loss 5.0022 | val ppl 148.74
+[2026-11-18 07:29:25] 保存最佳模型：step 1000，ppl 148.74
+[2026-11-18 07:29:25] step 1010/4230 | epoch 4 | train loss 4.9243
+[2026-11-18 07:29:25] step 1020/4230 | epoch 4 | train loss 4.9196
+[2026-11-18 07:29:26] step 1030/4230 | epoch 4 | train loss 4.9159
+[2026-11-18 07:29:26] step 1040/4230 | epoch 4 | train loss 4.9192
+[2026-11-18 07:29:27] step 1050/4230 | epoch 4 | train loss 4.9157
+[2026-11-18 07:29:27] step 1060/4230 | epoch 4 | train loss 4.9183
+[2026-11-18 07:29:27] step 1070/4230 | epoch 4 | train loss 4.9122
+[2026-11-18 07:29:28] step 1080/4230 | epoch 4 | train loss 4.9108
+[2026-11-18 07:29:28] step 1090/4230 | epoch 4 | train loss 4.9091
+[2026-11-18 07:29:29] step 1100/4230 | epoch 4 | train loss 4.9074
+[2026-11-18 07:29:29] step 1100 | val loss 4.9607 | val ppl 142.69
+[2026-11-18 07:29:29] 保存最佳模型：step 1100，ppl 142.69
+[2026-11-18 07:29:29] step 1110/4230 | epoch 4 | train loss 4.9065
+[2026-11-18 07:29:29] step 1120/4230 | epoch 4 | train loss 4.9071
+[2026-11-18 07:29:30] epoch 4 完成 | 平均 loss 4.9058 | 耗时 11.6s
+[2026-11-18 07:29:30] step 1130/4230 | epoch 5 | train loss 4.5859
+[2026-11-18 07:29:30] step 1140/4230 | epoch 5 | train loss 4.7933
+[2026-11-18 07:29:31] step 1150/4230 | epoch 5 | train loss 4.7629
+[2026-11-18 07:29:31] step 1160/4230 | epoch 5 | train loss 4.7660
+[2026-11-18 07:29:32] step 1170/4230 | epoch 5 | train loss 4.7757
+[2026-11-18 07:29:32] step 1180/4230 | epoch 5 | train loss 4.7614
+[2026-11-18 07:29:32] step 1190/4230 | epoch 5 | train loss 4.7495
+[2026-11-18 07:29:33] step 1200/4230 | epoch 5 | train loss 4.7466
+[2026-11-18 07:29:33] step 1200 | val loss 4.9259 | val ppl 137.81
+[2026-11-18 07:29:33] 保存最佳模型：step 1200，ppl 137.81
+[2026-11-18 07:29:33] step 1210/4230 | epoch 5 | train loss 4.7452
+[2026-11-18 07:29:34] step 1220/4230 | epoch 5 | train loss 4.7510
+[2026-11-18 07:29:34] step 1230/4230 | epoch 5 | train loss 4.7467
+[2026-11-18 07:29:35] step 1240/4230 | epoch 5 | train loss 4.7559
+[2026-11-18 07:29:35] step 1250/4230 | epoch 5 | train loss 4.7525
+[2026-11-18 07:29:35] step 1260/4230 | epoch 5 | train loss 4.7495
+[2026-11-18 07:29:36] step 1270/4230 | epoch 5 | train loss 4.7462
+[2026-11-18 07:29:36] step 1280/4230 | epoch 5 | train loss 4.7499
+[2026-11-18 07:29:37] step 1290/4230 | epoch 5 | train loss 4.7530
+[2026-11-18 07:29:37] step 1300/4230 | epoch 5 | train loss 4.7571
+[2026-11-18 07:29:37] step 1300 | val loss 4.8728 | val ppl 130.69
+[2026-11-18 07:29:37] 保存最佳模型：step 1300，ppl 130.69
+[2026-11-18 07:29:38] step 1310/4230 | epoch 5 | train loss 4.7561
+[2026-11-18 07:29:38] step 1320/4230 | epoch 5 | train loss 4.7518
+[2026-11-18 07:29:38] step 1330/4230 | epoch 5 | train loss 4.7547
+[2026-11-18 07:29:39] step 1340/4230 | epoch 5 | train loss 4.7551
+[2026-11-18 07:29:39] step 1350/4230 | epoch 5 | train loss 4.7544
+[2026-11-18 07:29:40] step 1360/4230 | epoch 5 | train loss 4.7540
+[2026-11-18 07:29:40] step 1370/4230 | epoch 5 | train loss 4.7526
+[2026-11-18 07:29:40] step 1380/4230 | epoch 5 | train loss 4.7526
+[2026-11-18 07:29:41] step 1390/4230 | epoch 5 | train loss 4.7507
+[2026-11-18 07:29:41] step 1400/4230 | epoch 5 | train loss 4.7482
+[2026-11-18 07:29:41] step 1400 | val loss 4.8472 | val ppl 127.38
+[2026-11-18 07:29:41] 保存最佳模型：step 1400，ppl 127.38
+[2026-11-18 07:29:42] step 1410/4230 | epoch 5 | train loss 4.7481
+[2026-11-18 07:29:42] epoch 5 完成 | 平均 loss 4.7481 | 耗时 11.6s
+[2026-11-18 07:29:42] step 1420/4230 | epoch 6 | train loss 4.6795
+[2026-11-18 07:29:43] step 1430/4230 | epoch 6 | train loss 4.6786
+[2026-11-18 07:29:43] step 1440/4230 | epoch 6 | train loss 4.6696
+[2026-11-18 07:29:44] step 1450/4230 | epoch 6 | train loss 4.6478
+[2026-11-18 07:29:44] step 1460/4230 | epoch 6 | train loss 4.6496
+[2026-11-18 07:29:45] step 1470/4230 | epoch 6 | train loss 4.6468
+[2026-11-18 07:29:45] step 1480/4230 | epoch 6 | train loss 4.6358
+[2026-11-18 07:29:45] step 1490/4230 | epoch 6 | train loss 4.6274
+[2026-11-18 07:29:46] step 1500/4230 | epoch 6 | train loss 4.6180
+[2026-11-18 07:29:46] step 1500 | val loss 4.8181 | val ppl 123.73
+[2026-11-18 07:29:46] 保存最佳模型：step 1500，ppl 123.73
+[2026-11-18 07:29:46] step 1510/4230 | epoch 6 | train loss 4.6142
+[2026-11-18 07:29:47] step 1520/4230 | epoch 6 | train loss 4.6150
+[2026-11-18 07:29:47] step 1530/4230 | epoch 6 | train loss 4.6220
+[2026-11-18 07:29:48] step 1540/4230 | epoch 6 | train loss 4.6192
+[2026-11-18 07:29:48] step 1550/4230 | epoch 6 | train loss 4.6208
+[2026-11-18 07:29:48] step 1560/4230 | epoch 6 | train loss 4.6230
+[2026-11-18 07:29:49] step 1570/4230 | epoch 6 | train loss 4.6262
+[2026-11-18 07:29:49] step 1580/4230 | epoch 6 | train loss 4.6225
+[2026-11-18 07:29:50] step 1590/4230 | epoch 6 | train loss 4.6253
+[2026-11-18 07:29:50] step 1600/4230 | epoch 6 | train loss 4.6197
+[2026-11-18 07:29:50] step 1600 | val loss 4.7964 | val ppl 121.07
+[2026-11-18 07:29:50] 保存最佳模型：step 1600，ppl 121.07
+[2026-11-18 07:29:51] step 1610/4230 | epoch 6 | train loss 4.6212
+[2026-11-18 07:29:51] step 1620/4230 | epoch 6 | train loss 4.6189
+[2026-11-18 07:29:51] step 1630/4230 | epoch 6 | train loss 4.6219
+[2026-11-18 07:29:52] step 1640/4230 | epoch 6 | train loss 4.6203
+[2026-11-18 07:29:52] step 1650/4230 | epoch 6 | train loss 4.6196
+[2026-11-18 07:29:53] step 1660/4230 | epoch 6 | train loss 4.6169
+[2026-11-18 07:29:53] step 1670/4230 | epoch 6 | train loss 4.6143
+[2026-11-18 07:29:53] step 1680/4230 | epoch 6 | train loss 4.6110
+[2026-11-18 07:29:54] step 1690/4230 | epoch 6 | train loss 4.6106
+[2026-11-18 07:29:54] epoch 6 完成 | 平均 loss 4.6107 | 耗时 11.8s
+[2026-11-18 07:29:55] step 1700/4230 | epoch 7 | train loss 4.3978
+[2026-11-18 07:29:55] step 1700 | val loss 4.7658 | val ppl 117.43
+[2026-11-18 07:29:55] 保存最佳模型：step 1700，ppl 117.43
+[2026-11-18 07:29:55] step 1710/4230 | epoch 7 | train loss 4.4311
+[2026-11-18 07:29:55] step 1720/4230 | epoch 7 | train loss 4.4359
+[2026-11-18 07:29:56] step 1730/4230 | epoch 7 | train loss 4.4592
+[2026-11-18 07:29:56] step 1740/4230 | epoch 7 | train loss 4.4490
+[2026-11-18 07:29:57] step 1750/4230 | epoch 7 | train loss 4.4650
+[2026-11-18 07:29:57] step 1760/4230 | epoch 7 | train loss 4.4703
+[2026-11-18 07:29:57] step 1770/4230 | epoch 7 | train loss 4.4779
+[2026-11-18 07:29:58] step 1780/4230 | epoch 7 | train loss 4.4751
+[2026-11-18 07:29:58] step 1790/4230 | epoch 7 | train loss 4.4735
+[2026-11-18 07:29:59] step 1800/4230 | epoch 7 | train loss 4.4752
+[2026-11-18 07:29:59] step 1800 | val loss 4.7404 | val ppl 114.48
+[2026-11-18 07:29:59] 保存最佳模型：step 1800，ppl 114.48
+[2026-11-18 07:29:59] step 1810/4230 | epoch 7 | train loss 4.4732
+[2026-11-18 07:30:00] step 1820/4230 | epoch 7 | train loss 4.4710
+[2026-11-18 07:30:00] step 1830/4230 | epoch 7 | train loss 4.4745
+[2026-11-18 07:30:00] step 1840/4230 | epoch 7 | train loss 4.4752
+[2026-11-18 07:30:01] step 1850/4230 | epoch 7 | train loss 4.4749
+[2026-11-18 07:30:01] step 1860/4230 | epoch 7 | train loss 4.4771
+[2026-11-18 07:30:02] step 1870/4230 | epoch 7 | train loss 4.4777
+[2026-11-18 07:30:02] step 1880/4230 | epoch 7 | train loss 4.4779
+[2026-11-18 07:30:02] step 1890/4230 | epoch 7 | train loss 4.4789
+[2026-11-18 07:30:03] step 1900/4230 | epoch 7 | train loss 4.4821
+[2026-11-18 07:30:03] step 1900 | val loss 4.7195 | val ppl 112.11
+[2026-11-18 07:30:03] 保存最佳模型：step 1900，ppl 112.11
+[2026-11-18 07:30:04] step 1910/4230 | epoch 7 | train loss 4.4853
+[2026-11-18 07:30:04] step 1920/4230 | epoch 7 | train loss 4.4823
+[2026-11-18 07:30:04] step 1930/4230 | epoch 7 | train loss 4.4835
+[2026-11-18 07:30:05] step 1940/4230 | epoch 7 | train loss 4.4850
+[2026-11-18 07:30:05] step 1950/4230 | epoch 7 | train loss 4.4866
+[2026-11-18 07:30:06] step 1960/4230 | epoch 7 | train loss 4.4870
+[2026-11-18 07:30:06] step 1970/4230 | epoch 7 | train loss 4.4867
+[2026-11-18 07:30:06] epoch 7 完成 | 平均 loss 4.4863 | 耗时 11.9s
+[2026-11-18 07:30:07] step 1980/4230 | epoch 8 | train loss 4.5029
+[2026-11-18 07:30:07] step 1990/4230 | epoch 8 | train loss 4.3944
+[2026-11-18 07:30:07] step 2000/4230 | epoch 8 | train loss 4.3827
+[2026-11-18 07:30:08] step 2000 | val loss 4.6951 | val ppl 109.41
+[2026-11-18 07:30:08] 保存最佳模型：step 2000，ppl 109.41
+[2026-11-18 07:30:08] step 2010/4230 | epoch 8 | train loss 4.3772
+[2026-11-18 07:30:08] step 2020/4230 | epoch 8 | train loss 4.3603
+[2026-11-18 07:30:09] step 2030/4230 | epoch 8 | train loss 4.3609
+[2026-11-18 07:30:09] step 2040/4230 | epoch 8 | train loss 4.3495
+[2026-11-18 07:30:10] step 2050/4230 | epoch 8 | train loss 4.3409
+[2026-11-18 07:30:10] step 2060/4230 | epoch 8 | train loss 4.3493
+[2026-11-18 07:30:10] step 2070/4230 | epoch 8 | train loss 4.3634
+[2026-11-18 07:30:11] step 2080/4230 | epoch 8 | train loss 4.3605
+[2026-11-18 07:30:11] step 2090/4230 | epoch 8 | train loss 4.3658
+[2026-11-18 07:30:12] step 2100/4230 | epoch 8 | train loss 4.3683
+[2026-11-18 07:30:12] step 2100 | val loss 4.6845 | val ppl 108.25
+[2026-11-18 07:30:12] 保存最佳模型：step 2100，ppl 108.25
+[2026-11-18 07:30:12] step 2110/4230 | epoch 8 | train loss 4.3727
+[2026-11-18 07:30:13] step 2120/4230 | epoch 8 | train loss 4.3727
+[2026-11-18 07:30:13] step 2130/4230 | epoch 8 | train loss 4.3713
+[2026-11-18 07:30:13] step 2140/4230 | epoch 8 | train loss 4.3718
+[2026-11-18 07:30:14] step 2150/4230 | epoch 8 | train loss 4.3709
+[2026-11-18 07:30:14] step 2160/4230 | epoch 8 | train loss 4.3690
+[2026-11-18 07:30:15] step 2170/4230 | epoch 8 | train loss 4.3666
+[2026-11-18 07:30:15] step 2180/4230 | epoch 8 | train loss 4.3675
+[2026-11-18 07:30:15] step 2190/4230 | epoch 8 | train loss 4.3679
+[2026-11-18 07:30:16] step 2200/4230 | epoch 8 | train loss 4.3662
+[2026-11-18 07:30:16] step 2200 | val loss 4.6668 | val ppl 106.36
+[2026-11-18 07:30:16] 保存最佳模型：step 2200，ppl 106.36
+[2026-11-18 07:30:16] step 2210/4230 | epoch 8 | train loss 4.3679
+[2026-11-18 07:30:17] step 2220/4230 | epoch 8 | train loss 4.3698
+[2026-11-18 07:30:17] step 2230/4230 | epoch 8 | train loss 4.3721
+[2026-11-18 07:30:17] step 2240/4230 | epoch 8 | train loss 4.3726
+[2026-11-18 07:30:18] step 2250/4230 | epoch 8 | train loss 4.3719
+[2026-11-18 07:30:18] epoch 8 完成 | 平均 loss 4.3734 | 耗时 11.6s
+[2026-11-18 07:30:18] step 2260/4230 | epoch 9 | train loss 4.3553
+[2026-11-18 07:30:19] step 2270/4230 | epoch 9 | train loss 4.2584
+[2026-11-18 07:30:19] step 2280/4230 | epoch 9 | train loss 4.2306
+[2026-11-18 07:30:20] step 2290/4230 | epoch 9 | train loss 4.2253
+[2026-11-18 07:30:20] step 2300/4230 | epoch 9 | train loss 4.2296
+[2026-11-18 07:30:20] step 2300 | val loss 4.6461 | val ppl 104.18
+[2026-11-18 07:30:20] 保存最佳模型：step 2300，ppl 104.18
+[2026-11-18 07:30:21] step 2310/4230 | epoch 9 | train loss 4.2414
+[2026-11-18 07:30:21] step 2320/4230 | epoch 9 | train loss 4.2470
+[2026-11-18 07:30:21] step 2330/4230 | epoch 9 | train loss 4.2505
+[2026-11-18 07:30:22] step 2340/4230 | epoch 9 | train loss 4.2456
+[2026-11-18 07:30:22] step 2350/4230 | epoch 9 | train loss 4.2460
+[2026-11-18 07:30:23] step 2360/4230 | epoch 9 | train loss 4.2370
+[2026-11-18 07:30:23] step 2370/4230 | epoch 9 | train loss 4.2470
+[2026-11-18 07:30:23] step 2380/4230 | epoch 9 | train loss 4.2507
+[2026-11-18 07:30:24] step 2390/4230 | epoch 9 | train loss 4.2543
+[2026-11-18 07:30:24] step 2400/4230 | epoch 9 | train loss 4.2543
+[2026-11-18 07:30:24] step 2400 | val loss 4.6454 | val ppl 104.10
+[2026-11-18 07:30:24] 保存最佳模型：step 2400，ppl 104.10
+[2026-11-18 07:30:25] step 2410/4230 | epoch 9 | train loss 4.2561
+[2026-11-18 07:30:25] step 2420/4230 | epoch 9 | train loss 4.2554
+[2026-11-18 07:30:26] step 2430/4230 | epoch 9 | train loss 4.2631
+[2026-11-18 07:30:26] step 2440/4230 | epoch 9 | train loss 4.2635
+[2026-11-18 07:30:26] step 2450/4230 | epoch 9 | train loss 4.2644
+[2026-11-18 07:30:27] step 2460/4230 | epoch 9 | train loss 4.2626
+[2026-11-18 07:30:27] step 2470/4230 | epoch 9 | train loss 4.2657
+[2026-11-18 07:30:27] step 2480/4230 | epoch 9 | train loss 4.2668
+[2026-11-18 07:30:28] step 2490/4230 | epoch 9 | train loss 4.2689
+[2026-11-18 07:30:28] step 2500/4230 | epoch 9 | train loss 4.2691
+[2026-11-18 07:30:28] step 2500 | val loss 4.5991 | val ppl 99.40
+[2026-11-18 07:30:28] 保存最佳模型：step 2500，ppl 99.40
+[2026-11-18 07:30:29] step 2510/4230 | epoch 9 | train loss 4.2684
+[2026-11-18 07:30:29] step 2520/4230 | epoch 9 | train loss 4.2675
+[2026-11-18 07:30:30] step 2530/4230 | epoch 9 | train loss 4.2674
+[2026-11-18 07:30:30] epoch 9 完成 | 平均 loss 4.2672 | 耗时 11.4s
+[2026-11-18 07:30:30] step 2540/4230 | epoch 10 | train loss 4.1094
+[2026-11-18 07:30:31] step 2550/4230 | epoch 10 | train loss 4.1445
+[2026-11-18 07:30:31] step 2560/4230 | epoch 10 | train loss 4.1403
+[2026-11-18 07:30:31] step 2570/4230 | epoch 10 | train loss 4.1369
+[2026-11-18 07:30:32] step 2580/4230 | epoch 10 | train loss 4.1379
+[2026-11-18 07:30:32] step 2590/4230 | epoch 10 | train loss 4.1513
+[2026-11-18 07:30:33] step 2600/4230 | epoch 10 | train loss 4.1603
+[2026-11-18 07:30:33] step 2600 | val loss 4.5919 | val ppl 98.68
+[2026-11-18 07:30:33] 保存最佳模型：step 2600，ppl 98.68
+[2026-11-18 07:30:33] step 2610/4230 | epoch 10 | train loss 4.1588
+[2026-11-18 07:30:33] step 2620/4230 | epoch 10 | train loss 4.1596
+[2026-11-18 07:30:34] step 2630/4230 | epoch 10 | train loss 4.1543
+[2026-11-18 07:30:34] step 2640/4230 | epoch 10 | train loss 4.1546
+[2026-11-18 07:30:35] step 2650/4230 | epoch 10 | train loss 4.1529
+[2026-11-18 07:30:35] step 2660/4230 | epoch 10 | train loss 4.1556
+[2026-11-18 07:30:36] step 2670/4230 | epoch 10 | train loss 4.1536
+[2026-11-18 07:30:36] step 2680/4230 | epoch 10 | train loss 4.1607
+[2026-11-18 07:30:36] step 2690/4230 | epoch 10 | train loss 4.1643
+[2026-11-18 07:30:37] step 2700/4230 | epoch 10 | train loss 4.1655
+[2026-11-18 07:30:37] step 2700 | val loss 4.5736 | val ppl 96.89
+[2026-11-18 07:30:37] 保存最佳模型：step 2700，ppl 96.89
+[2026-11-18 07:30:37] step 2710/4230 | epoch 10 | train loss 4.1633
+[2026-11-18 07:30:38] step 2720/4230 | epoch 10 | train loss 4.1645
+[2026-11-18 07:30:38] step 2730/4230 | epoch 10 | train loss 4.1663
+[2026-11-18 07:30:38] step 2740/4230 | epoch 10 | train loss 4.1681
+[2026-11-18 07:30:39] step 2750/4230 | epoch 10 | train loss 4.1681
+[2026-11-18 07:30:39] step 2760/4230 | epoch 10 | train loss 4.1673
+[2026-11-18 07:30:40] step 2770/4230 | epoch 10 | train loss 4.1653
+[2026-11-18 07:30:40] step 2780/4230 | epoch 10 | train loss 4.1685
+[2026-11-18 07:30:40] step 2790/4230 | epoch 10 | train loss 4.1703
+[2026-11-18 07:30:41] step 2800/4230 | epoch 10 | train loss 4.1715
+[2026-11-18 07:30:41] step 2800 | val loss 4.5759 | val ppl 97.12
+[2026-11-18 07:30:41] step 2810/4230 | epoch 10 | train loss 4.1701
+[2026-11-18 07:30:42] step 2820/4230 | epoch 10 | train loss 4.1714
+[2026-11-18 07:30:42] epoch 10 完成 | 平均 loss 4.1714 | 耗时 11.6s
+[2026-11-18 07:30:43] step 2830/4230 | epoch 11 | train loss 4.0912
+[2026-11-18 07:30:43] step 2840/4230 | epoch 11 | train loss 4.0610
+[2026-11-18 07:30:43] step 2850/4230 | epoch 11 | train loss 4.0635
+[2026-11-18 07:30:44] step 2860/4230 | epoch 11 | train loss 4.0504
+[2026-11-18 07:30:44] step 2870/4230 | epoch 11 | train loss 4.0469
+[2026-11-18 07:30:45] step 2880/4230 | epoch 11 | train loss 4.0491
+[2026-11-18 07:30:45] step 2890/4230 | epoch 11 | train loss 4.0498
+[2026-11-18 07:30:45] step 2900/4230 | epoch 11 | train loss 4.0541
+[2026-11-18 07:30:45] step 2900 | val loss 4.5585 | val ppl 95.44
+[2026-11-18 07:30:45] 保存最佳模型：step 2900，ppl 95.44
+[2026-11-18 07:30:46] step 2910/4230 | epoch 11 | train loss 4.0608
+[2026-11-18 07:30:46] step 2920/4230 | epoch 11 | train loss 4.0562
+[2026-11-18 07:30:47] step 2930/4230 | epoch 11 | train loss 4.0596
+[2026-11-18 07:30:47] step 2940/4230 | epoch 11 | train loss 4.0654
+[2026-11-18 07:30:48] step 2950/4230 | epoch 11 | train loss 4.0642
+[2026-11-18 07:30:48] step 2960/4230 | epoch 11 | train loss 4.0665
+[2026-11-18 07:30:48] step 2970/4230 | epoch 11 | train loss 4.0637
+[2026-11-18 07:30:49] step 2980/4230 | epoch 11 | train loss 4.0701
+[2026-11-18 07:30:49] step 2990/4230 | epoch 11 | train loss 4.0725
+[2026-11-18 07:30:50] step 3000/4230 | epoch 11 | train loss 4.0777
+[2026-11-18 07:30:50] step 3000 | val loss 4.5423 | val ppl 93.91
+[2026-11-18 07:30:50] 保存最佳模型：step 3000，ppl 93.91
+[2026-11-18 07:30:50] step 3010/4230 | epoch 11 | train loss 4.0808
+[2026-11-18 07:30:51] step 3020/4230 | epoch 11 | train loss 4.0791
+[2026-11-18 07:30:51] step 3030/4230 | epoch 11 | train loss 4.0793
+[2026-11-18 07:30:51] step 3040/4230 | epoch 11 | train loss 4.0814
+[2026-11-18 07:30:52] step 3050/4230 | epoch 11 | train loss 4.0814
+[2026-11-18 07:30:52] step 3060/4230 | epoch 11 | train loss 4.0798
+[2026-11-18 07:30:53] step 3070/4230 | epoch 11 | train loss 4.0786
+[2026-11-18 07:30:53] step 3080/4230 | epoch 11 | train loss 4.0788
+[2026-11-18 07:30:53] step 3090/4230 | epoch 11 | train loss 4.0786
+[2026-11-18 07:30:54] step 3100/4230 | epoch 11 | train loss 4.0779
+[2026-11-18 07:30:54] step 3100 | val loss 4.5389 | val ppl 93.59
+[2026-11-18 07:30:54] 保存最佳模型：step 3100，ppl 93.59
+[2026-11-18 07:30:54] epoch 11 完成 | 平均 loss 4.0782 | 耗时 11.8s
+[2026-11-18 07:30:55] step 3110/4230 | epoch 12 | train loss 3.9109
+[2026-11-18 07:30:55] step 3120/4230 | epoch 12 | train loss 3.9240
+[2026-11-18 07:30:55] step 3130/4230 | epoch 12 | train loss 3.9599
+[2026-11-18 07:30:56] step 3140/4230 | epoch 12 | train loss 3.9412
+[2026-11-18 07:30:56] step 3150/4230 | epoch 12 | train loss 3.9509
+[2026-11-18 07:30:57] step 3160/4230 | epoch 12 | train loss 3.9416
+[2026-11-18 07:30:57] step 3170/4230 | epoch 12 | train loss 3.9433
+[2026-11-18 07:30:57] step 3180/4230 | epoch 12 | train loss 3.9421
+[2026-11-18 07:30:58] step 3190/4230 | epoch 12 | train loss 3.9500
+[2026-11-18 07:30:58] step 3200/4230 | epoch 12 | train loss 3.9554
+[2026-11-18 07:30:58] step 3200 | val loss 4.5416 | val ppl 93.84
+[2026-11-18 07:30:59] step 3210/4230 | epoch 12 | train loss 3.9563
+[2026-11-18 07:30:59] step 3220/4230 | epoch 12 | train loss 3.9554
+[2026-11-18 07:31:00] step 3230/4230 | epoch 12 | train loss 3.9652
+[2026-11-18 07:31:00] step 3240/4230 | epoch 12 | train loss 3.9665
+[2026-11-18 07:31:00] step 3250/4230 | epoch 12 | train loss 3.9704
+[2026-11-18 07:31:01] step 3260/4230 | epoch 12 | train loss 3.9722
+[2026-11-18 07:31:01] step 3270/4230 | epoch 12 | train loss 3.9742
+[2026-11-18 07:31:02] step 3280/4230 | epoch 12 | train loss 3.9776
+[2026-11-18 07:31:02] step 3290/4230 | epoch 12 | train loss 3.9813
+[2026-11-18 07:31:02] step 3300/4230 | epoch 12 | train loss 3.9859
+[2026-11-18 07:31:02] step 3300 | val loss 4.5126 | val ppl 91.16
+[2026-11-18 07:31:03] 保存最佳模型：step 3300，ppl 91.16
+[2026-11-18 07:31:03] step 3310/4230 | epoch 12 | train loss 3.9873
+[2026-11-18 07:31:03] step 3320/4230 | epoch 12 | train loss 3.9881
+[2026-11-18 07:31:04] step 3330/4230 | epoch 12 | train loss 3.9870
+[2026-11-18 07:31:04] step 3340/4230 | epoch 12 | train loss 3.9867
+[2026-11-18 07:31:05] step 3350/4230 | epoch 12 | train loss 3.9891
+[2026-11-18 07:31:05] step 3360/4230 | epoch 12 | train loss 3.9915
+[2026-11-18 07:31:05] step 3370/4230 | epoch 12 | train loss 3.9923
+[2026-11-18 07:31:06] step 3380/4230 | epoch 12 | train loss 3.9927
+[2026-11-18 07:31:06] epoch 12 完成 | 平均 loss 3.9932 | 耗时 11.8s
+[2026-11-18 07:31:07] step 3390/4230 | epoch 13 | train loss 3.9334
+[2026-11-18 07:31:07] step 3400/4230 | epoch 13 | train loss 3.9330
+[2026-11-18 07:31:07] step 3400 | val loss 4.5047 | val ppl 90.44
+[2026-11-18 07:31:07] 保存最佳模型：step 3400，ppl 90.44
+[2026-11-18 07:31:08] step 3410/4230 | epoch 13 | train loss 3.9051
+[2026-11-18 07:31:08] step 3420/4230 | epoch 13 | train loss 3.8809
+[2026-11-18 07:31:08] step 3430/4230 | epoch 13 | train loss 3.8770
+[2026-11-18 07:31:09] step 3440/4230 | epoch 13 | train loss 3.8858
+[2026-11-18 07:31:09] step 3450/4230 | epoch 13 | train loss 3.8840
+[2026-11-18 07:31:10] step 3460/4230 | epoch 13 | train loss 3.8828
+[2026-11-18 07:31:10] step 3470/4230 | epoch 13 | train loss 3.8864
+[2026-11-18 07:31:10] step 3480/4230 | epoch 13 | train loss 3.8903
+[2026-11-18 07:31:11] step 3490/4230 | epoch 13 | train loss 3.8875
+[2026-11-18 07:31:11] step 3500/4230 | epoch 13 | train loss 3.8919
+[2026-11-18 07:31:11] step 3500 | val loss 4.5183 | val ppl 91.68
+[2026-11-18 07:31:12] step 3510/4230 | epoch 13 | train loss 3.8935
+[2026-11-18 07:31:12] step 3520/4230 | epoch 13 | train loss 3.8988
+[2026-11-18 07:31:12] step 3530/4230 | epoch 13 | train loss 3.9010
+[2026-11-18 07:31:13] step 3540/4230 | epoch 13 | train loss 3.9046
+[2026-11-18 07:31:13] step 3550/4230 | epoch 13 | train loss 3.9106
+[2026-11-18 07:31:14] step 3560/4230 | epoch 13 | train loss 3.9102
+[2026-11-18 07:31:14] step 3570/4230 | epoch 13 | train loss 3.9081
+[2026-11-18 07:31:14] step 3580/4230 | epoch 13 | train loss 3.9082
+[2026-11-18 07:31:15] step 3590/4230 | epoch 13 | train loss 3.9052
+[2026-11-18 07:31:15] step 3600/4230 | epoch 13 | train loss 3.9080
+[2026-11-18 07:31:15] step 3600 | val loss 4.4950 | val ppl 89.57
+[2026-11-18 07:31:15] 保存最佳模型：step 3600，ppl 89.57
+[2026-11-18 07:31:16] step 3610/4230 | epoch 13 | train loss 3.9100
+[2026-11-18 07:31:16] step 3620/4230 | epoch 13 | train loss 3.9112
+[2026-11-18 07:31:17] step 3630/4230 | epoch 13 | train loss 3.9108
+[2026-11-18 07:31:17] step 3640/4230 | epoch 13 | train loss 3.9153
+[2026-11-18 07:31:18] step 3650/4230 | epoch 13 | train loss 3.9192
+[2026-11-18 07:31:18] step 3660/4230 | epoch 13 | train loss 3.9202
+[2026-11-18 07:31:18] epoch 13 完成 | 平均 loss 3.9201 | 耗时 11.8s
+[2026-11-18 07:31:19] step 3670/4230 | epoch 14 | train loss 3.7983
+[2026-11-18 07:31:19] step 3680/4230 | epoch 14 | train loss 3.7988
+[2026-11-18 07:31:19] step 3690/4230 | epoch 14 | train loss 3.7879
+[2026-11-18 07:31:20] step 3700/4230 | epoch 14 | train loss 3.7721
+[2026-11-18 07:31:20] step 3700 | val loss 4.4966 | val ppl 89.71
+[2026-11-18 07:31:20] step 3710/4230 | epoch 14 | train loss 3.7806
+[2026-11-18 07:31:21] step 3720/4230 | epoch 14 | train loss 3.7907
+[2026-11-18 07:31:21] step 3730/4230 | epoch 14 | train loss 3.7901
+[2026-11-18 07:31:21] step 3740/4230 | epoch 14 | train loss 3.8019
+[2026-11-18 07:31:22] step 3750/4230 | epoch 14 | train loss 3.8053
+[2026-11-18 07:31:22] step 3760/4230 | epoch 14 | train loss 3.8104
+[2026-11-18 07:31:23] step 3770/4230 | epoch 14 | train loss 3.8091
+[2026-11-18 07:31:23] step 3780/4230 | epoch 14 | train loss 3.8020
+[2026-11-18 07:31:23] step 3790/4230 | epoch 14 | train loss 3.8096
+[2026-11-18 07:31:24] step 3800/4230 | epoch 14 | train loss 3.8148
+[2026-11-18 07:31:24] step 3800 | val loss 4.4950 | val ppl 89.57
+[2026-11-18 07:31:24] step 3810/4230 | epoch 14 | train loss 3.8186
+[2026-11-18 07:31:25] step 3820/4230 | epoch 14 | train loss 3.8175
+[2026-11-18 07:31:25] step 3830/4230 | epoch 14 | train loss 3.8217
+[2026-11-18 07:31:26] step 3840/4230 | epoch 14 | train loss 3.8223
+[2026-11-18 07:31:26] step 3850/4230 | epoch 14 | train loss 3.8244
+[2026-11-18 07:31:26] step 3860/4230 | epoch 14 | train loss 3.8302
+[2026-11-18 07:31:27] step 3870/4230 | epoch 14 | train loss 3.8307
+[2026-11-18 07:31:27] step 3880/4230 | epoch 14 | train loss 3.8315
+[2026-11-18 07:31:28] step 3890/4230 | epoch 14 | train loss 3.8358
+[2026-11-18 07:31:28] step 3900/4230 | epoch 14 | train loss 3.8375
+[2026-11-18 07:31:28] step 3900 | val loss 4.4841 | val ppl 88.60
+[2026-11-18 07:31:28] 保存最佳模型：step 3900，ppl 88.60
+[2026-11-18 07:31:28] step 3910/4230 | epoch 14 | train loss 3.8415
+[2026-11-18 07:31:29] step 3920/4230 | epoch 14 | train loss 3.8465
+[2026-11-18 07:31:29] step 3930/4230 | epoch 14 | train loss 3.8468
+[2026-11-18 07:31:30] step 3940/4230 | epoch 14 | train loss 3.8467
+[2026-11-18 07:31:30] epoch 14 完成 | 平均 loss 3.8472 | 耗时 11.6s
+[2026-11-18 07:31:30] step 3950/4230 | epoch 15 | train loss 3.7622
+[2026-11-18 07:31:31] step 3960/4230 | epoch 15 | train loss 3.7325
+[2026-11-18 07:31:31] step 3970/4230 | epoch 15 | train loss 3.7104
+[2026-11-18 07:31:32] step 3980/4230 | epoch 15 | train loss 3.7295
+[2026-11-18 07:31:32] step 3990/4230 | epoch 15 | train loss 3.7302
+[2026-11-18 07:31:32] step 4000/4230 | epoch 15 | train loss 3.7435
+[2026-11-18 07:31:32] step 4000 | val loss 4.4773 | val ppl 88.00
+[2026-11-18 07:31:32] 保存最佳模型：step 4000，ppl 88.00
+[2026-11-18 07:31:33] step 4010/4230 | epoch 15 | train loss 3.7441
+[2026-11-18 07:31:33] step 4020/4230 | epoch 15 | train loss 3.7443
+[2026-11-18 07:31:34] step 4030/4230 | epoch 15 | train loss 3.7446
+[2026-11-18 07:31:34] step 4040/4230 | epoch 15 | train loss 3.7436
+[2026-11-18 07:31:34] step 4050/4230 | epoch 15 | train loss 3.7423
+[2026-11-18 07:31:35] step 4060/4230 | epoch 15 | train loss 3.7497
+[2026-11-18 07:31:35] step 4070/4230 | epoch 15 | train loss 3.7541
+[2026-11-18 07:31:36] step 4080/4230 | epoch 15 | train loss 3.7535
+[2026-11-18 07:31:36] step 4090/4230 | epoch 15 | train loss 3.7611
+[2026-11-18 07:31:36] step 4100/4230 | epoch 15 | train loss 3.7606
+[2026-11-18 07:31:36] step 4100 | val loss 4.4850 | val ppl 88.67
+[2026-11-18 07:31:37] step 4110/4230 | epoch 15 | train loss 3.7645
+[2026-11-18 07:31:37] step 4120/4230 | epoch 15 | train loss 3.7680
+[2026-11-18 07:31:38] step 4130/4230 | epoch 15 | train loss 3.7696
+[2026-11-18 07:31:38] step 4140/4230 | epoch 15 | train loss 3.7733
+[2026-11-18 07:31:39] step 4150/4230 | epoch 15 | train loss 3.7761
+[2026-11-18 07:31:39] step 4160/4230 | epoch 15 | train loss 3.7773
+[2026-11-18 07:31:39] step 4170/4230 | epoch 15 | train loss 3.7777
+[2026-11-18 07:31:40] step 4180/4230 | epoch 15 | train loss 3.7759
+[2026-11-18 07:31:40] step 4190/4230 | epoch 15 | train loss 3.7757
+[2026-11-18 07:31:41] step 4200/4230 | epoch 15 | train loss 3.7800
+[2026-11-18 07:31:41] step 4200 | val loss 4.4644 | val ppl 86.87
+[2026-11-18 07:31:41] 保存最佳模型：step 4200，ppl 86.87
+[2026-11-18 07:31:41] step 4210/4230 | epoch 15 | train loss 3.7807
+[2026-11-18 07:31:42] step 4220/4230 | epoch 15 | train loss 3.7809
+[2026-11-18 07:31:42] step 4230/4230 | epoch 15 | train loss 3.7828
+[2026-11-18 07:31:42] epoch 15 完成 | 平均 loss 3.7828 | 耗时 11.8s
+[2026-11-18 07:31:42] 训练结束：4230 步，总耗时 3m1s
+最佳验证困惑度 86.87（step 4200）

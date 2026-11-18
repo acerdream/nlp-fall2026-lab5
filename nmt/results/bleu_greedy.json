@@ -1,0 +1,9 @@
+{
+  "mode": "greedy",
+  "beam_width": null,
+  "max_length": 32,
+  "split": "test",
+  "num_sentences": 500,
+  "bleu": 0.015577194104169334,
+  "seconds": 17.88673496246338
+}

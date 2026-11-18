@@ -1,0 +1,4 @@
+Sentence: 她还没有对自己的未来做出重要的决定。
+Translation: she is a great wall in the window .
+Source tokens: 她 还没有 对 自己的 未来 做 出 重要的 决定 。
+Target tokens: ▁she ▁is ▁a ▁great ▁wall ▁in ▁the ▁window ▁.

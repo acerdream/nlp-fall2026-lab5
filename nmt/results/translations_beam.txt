@@ -1,0 +1,2500 @@
+# 1
+ZH:  费用中包括税金。
+HYP: there are a new york .
+REF: the cost includes taxes .
+
+# 2
+ZH:  她教图画课。
+HYP: she is a very important .
+REF: she gives lessons in drawing .
+
+# 3
+ZH:  若是你去碰一根带电的电线，你就会受电击。
+HYP: take your own , if you are in your ownx .
+REF: if you touch an electric wire , you'll get a shock .
+
+# 4
+ZH:  这还不是全集。
+HYP: this is a little boy .
+REF: and this is not a complete set .
+
+# 5
+ZH:  现在有点忙，下次聊天。再见。
+HYP: now , it is not a little boy .
+REF: now a bit busy , the next chat . goodbye .
+
+# 6
+ZH:  我希望孩子们平安而健康。
+HYP: i hope it is very nice .
+REF: i hope the children are all right .
+
+# 7
+ZH:  被注意到和引人注目并非一回事。
+HYP: the enemy has been solded in the country .
+REF: being noticed is not the same as being remarkable .
+
+# 8
+ZH:  那么你的观点是什么呢？
+HYP: what do you have to do ?
+REF: so what's your opinion ?
+
+# 9
+ZH:  答允过多等于零。
+HYP: i have a lot of my life .
+REF: he that promises too much means nothing .
+
+# 10
+ZH:  有一些是很经典的，而且很感人。
+HYP: there is a very nice , you know , too .
+REF: some of them are very famous and exciting .
+
+# 11
+ZH:  我是个恋家的孩子。
+HYP: i want to do .
+REF: i am a love child at home .
+
+# 12
+ZH:  有节制服用的女性面临的风险没有增加。
+HYP: there is a small important role in the meeting .
+REF: women in the control arm had no change in risk .
+
+# 13
+ZH:  在接下来的章节里，我们将探究这两种开发选项。
+HYP: there is in the next week , in the next week .
+REF: we'll explore both development options in the sections that follow .
+
+# 14
+ZH:  人离了空气不能活。
+HYP: yes , i have a lot of course .
+REF: man can not live without air .
+
+# 15
+ZH:  是的，有人来救他了。
+HYP: yes . thank you , he was late .
+REF: it had come to rescue him .
+
+# 16
+ZH:  咱们把酒喝完吧。
+HYP: there is the best in the house .
+REF: let's finish off the wine .
+
+# 17
+ZH:  这将是我们新赛季开始前最后一场热身赛。
+HYP: this is a new project of our days .
+REF: it is our last game before the season starts .
+
+# 18
+ZH:  如果你那样做，只会乱上加乱。
+HYP: if you know , if you know , please .
+REF: if you do that , it will only make matters worse .
+
+# 19
+ZH:  目前，我们不接受登记从贵国。
+HYP: when we have a lot of our company .
+REF: we currently do not accept registration from your country .
+
+# 20
+ZH:  这些谈判既艰难又复杂。
+HYP: it is a good dog . i have a moment .
+REF: these are difficult and complex .
+
+# 21
+ZH:  我们将支付的基础上，每安装一个你。
+HYP: we have not know , you know , not know , it .
+REF: we will pay you on a per install basis .
+
+# 22
+ZH:  这样我可以跟随你。
+HYP: i don't know you have to you .
+REF: so i can follow you .
+
+# 23
+ZH:  我会唱出那不曾改变的真爱。
+HYP: i don't know what i am more than her .
+REF: i'd sing of love that won't go wrong .
+
+# 24
+ZH:  如果你想买一本，请务必给我电邮。
+HYP: if you want to give me , please , please me .
+REF: do e-mail me if you would like a copy .
+
+# 25
+ZH:  换换花样，让别的人去做事件的修补工作即可。
+HYP: the police was a lot of them in the life .
+REF: let someone else fix things for a change .
+
+# 26
+ZH:  她把毛线卷起来。
+HYP: she told a little boy .
+REF: she wound up wool .
+
+# 27
+ZH:  他看来疲倦了，的确是疲倦了。
+HYP: he is a good eyes , and then , he said .
+REF: he looked , and indeed was , tired .
+
+# 28
+ZH:  如果绿灯还没亮，就等一会。
+HYP: if i think she is going to be able , please .
+REF: if the green light if off , wait for a minute .
+
+# 29
+ZH:  我爱香港人，”他说。
+HYP: i know , you can see , well .
+REF: i love hong kong people , " he said .
+
+# 30
+ZH:  在这种地方工作，真难以想象。
+HYP: there is not happy , but we have a work .
+REF: it's hard to imagine working in a place like that .
+
+# 31
+ZH:  这四种中的第一件是你法律上应享的权力。
+HYP: this is a great walled to the world .
+REF: of these four things , the first is your legal due .
+
+# 32
+ZH:  但它们并不完美。
+HYP: but we have a lot of them .
+REF: but they are not perfect .
+
+# 33
+ZH:  这是一个不寻常的时期。
+HYP: this is a little boy .
+REF: this is an unusual time .
+
+# 34
+ZH:  这个经验你们总应该有的。
+HYP: this is a lot of course .
+REF: this is nothing new to you , i am sure .
+
+# 35
+ZH:  我们要买多少面包？
+HYP: what do we do you want to do ?
+REF: how much bread shall we buy ?
+
+# 36
+ZH:  我要你帮我私下差点东西。
+HYP: i don't know what you want to do .
+REF: i need you to look into something off the record .
+
+# 37
+ZH:  音乐对人们的影响确实很大。
+HYP: there is a small question of the table .
+REF: music really does mean a lot to people .
+
+# 38
+ZH:  于是飞机可以上升了。
+HYP: so much , he can be able to him .
+REF: the plane was then able to rise .
+
+# 39
+ZH:  这是一场军备竞赛吗？
+HYP: what is this is there ?
+REF: is this an arms race ?
+
+# 40
+ZH:  尚有一个缺口必须加以考虑。
+HYP: it is a lot of the house .
+REF: there is still a gap that must be considered .
+
+# 41
+ZH:  我母亲是医院里的医生。
+HYP: i have a lot of the house .
+REF: my mother is a doctor at the hospital .
+
+# 42
+ZH:  在家庭权利方面尤其如此。
+HYP: don't worry of the next week .
+REF: this is especially true for family rights .
+
+# 43
+ZH:  这是一个极特殊的事况。
+HYP: this is a lot of course .
+REF: this is a very special matter condition .
+
+# 44
+ZH:  一个国王受伤了，便伤害了耗子。
+HYP: as the first , and the first , though it .
+REF: a king was hurt , so he hurt a rat .
+
+# 45
+ZH:  他没有说安什么时候回美国。
+HYP: he had a lot of his mother .
+REF: he didn't say when ann was coming back to america .
+
+# 46
+ZH:  图4整天都没有生意。
+HYP: the weather is not fit in the world .
+REF: picture 4 nobody came to the shop all day .
+
+# 47
+ZH:  单手拿著把手，轻松拖行，方便移动。
+HYP: click , the first , the first , though you know , it .
+REF: hold the handle and drag to move around .
+
+# 48
+ZH:  他们定期去教堂做礼拜。
+HYP: they used to be used to be used .
+REF: they regularly attended at church .
+
+# 49
+ZH:  不站在那边，你介意吗？
+HYP: do you think you want to do you ?
+REF: do you mind not standing over there ?
+
+# 50
+ZH:  提高阅读完形的能力，为阅读完形等能力题目做好准备。
+HYP: there is not enough to your own days .
+REF: can also view comments and share the joy of reading .
+
+# 51
+ZH:  能给我一个安静的房间吗？
+HYP: can you give me me with me ?
+REF: a : can you give me a quiet room ?
+
+# 52
+ZH:  一只巴掌也能拍响！
+HYP: it is a new york !
+REF: can also shoot a hand ring !
+
+# 53
+ZH:  组织，总蛋白，小鼠成体正常，肝。
+HYP: okay , though it is a little boy .
+REF: tissue , total protein , mouse adult normal , liver .
+
+# 54
+ZH:  在热带丛林里旅行既危险又费时。
+HYP: when the weather will be done in the world .
+REF: travel through tropical forest is dangerous and slow .
+
+# 55
+ZH:  和我丈夫一起工作很舒服。
+HYP: i think i have a new york .
+REF: i'm comfortable working with my husband .
+
+# 56
+ZH:  你使我觉得自己是个真正的女人了。
+HYP: you don't know what i don't know what i am late .
+REF: you make me feel like a natural woman .
+
+# 57
+ZH:  我是不想把事情弄糟了。
+HYP: i don't know what i am late .
+REF: i just don't want to mess things up .
+
+# 58
+ZH:  你是派到地球上的，我的天使。
+HYP: you have a lot , you want to give me .
+REF: you're my angel that was sent to earth .
+
+# 59
+ZH:  他离开北京之前会来看你的。
+HYP: he don't know what you want to you .
+REF: he will come to see you before he leaves beijing .
+
+# 60
+ZH:  她爱吃鱼。
+HYP: she is so much .
+REF: she's big on fish .
+
+# 61
+ZH:  添加到背景图片的额外空间。
+HYP: there is a small company of the company .
+REF: extra space to be added to the background image .
+
+# 62
+ZH:  他用流利的英语表达自己的思想。
+HYP: he has been in the wholeovery .
+REF: he expressed himself in good english .
+
+# 63
+ZH:  这些日子以来，一切都要结束了。
+HYP: i hope it is not happy , it .
+REF: but those days are finally coming to an end .
+
+# 64
+ZH:  爱生活，爱自己，其次是爱别人！
+HYP: i don't know , but then , oh !
+REF: love life , love yourself , love others followed !
+
+# 65
+ZH:  有时候，男人也象小孩子一样。
+HYP: sometimes , that is not a little boy .
+REF: sometimes , a man just like a kid .
+
+# 66
+ZH:  就好像我视力不好，我的孩子们视力都不好。
+HYP: let me , i have a great deal of them .
+REF: just as i haven't good eyes , neither have my children .
+
+# 67
+ZH:  把这份作品送给一个小男孩是最好不过的。
+HYP: there is a smaller than you are than you .
+REF: this is perfect for a young boy .
+
+# 68
+ZH:  在七死九伤之前的事。
+HYP: i don't know what i want to do .
+REF: before seven dead and nine injured .
+
+# 69
+ZH:  深吸一口气，然后稍微思考一下。
+HYP: so not be able , as a good time at once .
+REF: take a deep breath , and give it a little thought .
+
+# 70
+ZH:  以下时间均为出发时间。
+HYP: the old man will be used to the world .
+REF: all hours shown below are the departure time .
+
+# 71
+ZH:  她是全国的顶尖模特儿。
+HYP: she is a greatings of the fire .
+REF: she is one of the country's top models .
+
+# 72
+ZH:  他把雨伞忘在火车上了。
+HYP: we have a lot of them .
+REF: he left his umbrella in the train .
+
+# 73
+ZH:  经过很长时间的寻找，他们发现了这个走失的小孩。
+HYP: we must keep them and then , though this week .
+REF: she has worked in that shop for a long time .
+
+# 74
+ZH:  我们每个人都喜欢运动。
+HYP: we have a lot of us .
+REF: every one of the students loves sports .
+
+# 75
+ZH:  但是我不可能把所有的产品都给他列出来啊。
+HYP: but i want to make a new york .
+REF: please send us price list of your product .
+
+# 76
+ZH:  明天让你出去。
+HYP: i hope you have a lot of course .
+REF: you'll be allowed to go out tomorrow .
+
+# 77
+ZH:  我所有的都用光了。
+HYP: i have a lot of my life .
+REF: all those i had are used up .
+
+# 78
+ZH:  我们可以在这里住个半年，在那边住半年。
+HYP: we have a lot of the right for me .
+REF: we could live six months here and six months there .
+
+# 79
+ZH:  你躲哪儿去了？
+HYP: what do you want to do ?
+REF: where have you been hiding ?
+
+# 80
+ZH:  花一整天来观看浪漫电影。
+HYP: there is a very important in the next week .
+REF: spend the entire day watching romantic movies .
+
+# 81
+ZH:  他需要他能得到的一切经验。
+HYP: he is not a lot of course .
+REF: he needs all the experience he can get .
+
+# 82
+ZH:  我想买一张明天去上海的机票。
+HYP: i don't know what i have been here .
+REF: i wang to book a ticket to shanghai tomorrow .
+
+# 83
+ZH:  大多数现代音乐都让人激动得想手舞足蹈。
+HYP: so the first , you have been out of them .
+REF: most modern music makes people excited and feel like dancing .
+
+# 84
+ZH:  不过，在足球界，事情随时可能发生改变。
+HYP: but you know , it is not happy .
+REF: but , in football things can change quickly .
+
+# 85
+ZH:  我借助报纸上的一则广告而找到我的自行车。
+HYP: i think we have a lot of them .
+REF: that information can include the calling number , a message , etc .
+
+# 86
+ZH:  但并不是每个人都想上大学。
+HYP: but i know what i have been here .
+REF: every young man and woman wants to go to college .
+
+# 87
+ZH:  不同的人喜欢不同的事物。
+HYP: this is a lot of course .
+REF: different people like different things .
+
+# 88
+ZH:  医生非常仔细地给布朗夫人做了检查。
+HYP: a man was a great deal of the country .
+REF: the doctor looked over mrs brown very carefully .
+
+# 89
+ZH:  其他会话都不能访问这个值。
+HYP: i have a new york . i have a lot .
+REF: no other session can access that value .
+
+# 90
+ZH:  音乐会的票已经全部卖完了。
+HYP: the weather will be used to the next week .
+REF: the concert is completely sold out .
+
+# 91
+ZH:  完善财务制度和内部管理。
+HYP: the keys is a part of the country .
+REF: develop accounting system and internal control .
+
+# 92
+ZH:  请在该栏目输入正确的数字。
+HYP: please put your own risk . please .
+REF: please enter a valid number in this field .
+
+# 93
+ZH:  打破杯子，小汤姆深感忧虑。
+HYP: and i have a lot , if you know you know .
+REF: little tom was deeply worried when he broke the cup .
+
+# 94
+ZH:  我看到了几只鸟。
+HYP: i have a lot of the office .
+REF: i can see some birds .
+
+# 95
+ZH:  对他来说幸运的是，他会游泳。
+HYP: no , he is too much , i don't know .
+REF: fortunately for him , he can swim .
+
+# 96
+ZH:  申请提前录取的好处是什么？
+HYP: how much is a lot of the best ?
+REF: what is the advantage of early application ?
+
+# 97
+ZH:  这建议需要仔细考虑。
+HYP: this is a lot of this week .
+REF: the suggestion requires careful thought .
+
+# 98
+ZH:  当我在苦恼，只要想起我心爱的东西，我就不再悲哀。
+HYP: i don't know , but i know , but i know , it .
+REF: when i'm feeling sad , i simply remember my favorite things .
+
+# 99
+ZH:  啊，他们在这里！
+HYP: however , mr , please !
+REF: ah , here they are !
+
+# 100
+ZH:  我们必须对这基本观念有正确的掌握。
+HYP: we need to have a new york .
+REF: must get this right miss the point .
+
+# 101
+ZH:  他必须在父母和妻子之间作出选择。
+HYP: he has a greatareded in the country .
+REF: he had to choose between his parents and his wife .
+
+# 102
+ZH:  防火、急救与紧急逃生的管理。
+HYP: the old man , in the worlds is introduced .
+REF: fire fighting , first aid and emergency escape management .
+
+# 103
+ZH:  那些人在利用他的职位。
+HYP: he is in the meeting of the table .
+REF: the people are taking advantage of his position .
+
+# 104
+ZH:  因为我们并不从任何其它地方开始置疑。
+HYP: because we have a lot of us .
+REF: for one does not question from any other place .
+
+# 105
+ZH:  我们所有人都感到自豪，并期待着旅行一天。
+HYP: we have a lot of them , we can see them .
+REF: we all pride in and look forward to travel day .
+
+# 106
+ZH:  她没提到她的母亲没来。
+HYP: she told her mother her mother .
+REF: she did not mention her mother's absence .
+
+# 107
+ZH:  我实现了自己的诺言，珍爱着这些花朵。
+HYP: i have a lot of them .
+REF: i made myself count , and i treasure these little flowers .
+
+# 108
+ZH:  哈，别挡我的去路！
+HYP: let me , my father , please !
+REF: yeah , don't cross my path !
+
+# 109
+ZH:  在这里，人们停留的时间最长。
+HYP: here , you have a new york .
+REF: this is where most of their time is spent .
+
+# 110
+ZH:  你的发明已证明很有实用价值。
+HYP: your favoriteer is going to the best .
+REF: your invention has proved to be of much practical value .
+
+# 111
+ZH:  他又恢复了坏习惯。
+HYP: he had a new york .
+REF: he returned to the bad habit .
+
+# 112
+ZH:  请稍等，我查一下档案。
+HYP: please tell me , i think i know what i know .
+REF: one moment , please i will check the files .
+
+# 113
+ZH:  翻译他讲完话后陷入了长长的沉默。
+HYP: he has been in his wife .
+REF: there is a long time of silence after his words .
+
+# 114
+ZH:  你们正在做什么？我们正在擦一些玩具。
+HYP: how do you think we have been in beijing .
+REF: what are you doing ? we are cleaning some toys .
+
+# 115
+ZH:  要时常检查机油量。
+HYP: you want to make a greatate .
+REF: check the engine oil level regularly .
+
+# 116
+ZH:  这个可怜的女孩既不会读也不会写。
+HYP: this time is a good time to me .
+REF: the poor girl can neither read nor write .
+
+# 117
+ZH:  我不知道该如何帮他度过难关。
+HYP: i think he gave him to him .
+REF: i didn't know how i could help him out .
+
+# 118
+ZH:  我当然记得要想着替你发信。
+HYP: i don't know how to do you .
+REF: i'll certainly remember to post the letter for you .
+
+# 119
+ZH:  我们的节目也该跟您说再见了。
+HYP: we must have a lot of course .
+REF: it is time for our program to bid you goodbye .
+
+# 120
+ZH:  他不但会讲俄语，而且还会讲德语。
+HYP: he had a little , but she was very hard , though .
+REF: he could speak german as well as russian .
+
+# 121
+ZH:  如果失去你的话，不知道我会怎样。
+HYP: if you don't know you know you know you know , i .
+REF: if i loose you i don't know what i'll do .
+
+# 122
+ZH:  在这个国家，儿童享有免费教育。
+HYP: it is a lot of the sun of the world .
+REF: in this country children enjoy free education .
+
+# 123
+ZH:  我给你寄了一本音乐书，你看到了吗？
+HYP: i think i think you have a lot of your ownport ?
+REF: i've sent you a music book . have you seen it ?
+
+# 124
+ZH:  那时候，这一举动很少成功。
+HYP: it is not a lot of this week .
+REF: at the time , the move was a long shot .
+
+# 125
+ZH:  这些原因导致了不良后果。
+HYP: it is not in the next week .
+REF: these causes led to a bad result .
+
+# 126
+ZH:  美国，我已给了你一切，可我却一无所有。
+HYP: when i can know you know you know , i know .
+REF: america , i've given you all and now i'm nothing .
+
+# 127
+ZH:  哦，不好意思迟到了。
+HYP: oh , so much .
+REF: oh , sorry for being late .
+
+# 128
+ZH:  繁重的工作对病人来说是一项负担。
+HYP: a man is a part of course .
+REF: it will be a heavy tax on my time .
+
+# 129
+ZH:  我想和你一同站在那高高的山上。
+HYP: i think i have a new york .
+REF: i wanna stand with you on a mountain .
+
+# 130
+ZH:  这条街通哪？
+HYP: what kind of the job are you ?
+REF: where does this street lead to ?
+
+# 131
+ZH:  在这之前，没有人能够爱任何人。
+HYP: no , so much , i don't know .
+REF: nobody can love anyone else before this .
+
+# 132
+ZH:  没时间换衣服了。
+HYP: the boy will be used at the car .
+REF: there's no time to change .
+
+# 133
+ZH:  如何克服恐惧心理？
+HYP: are you going to take the right ?
+REF: how to overcome scared psychology ?
+
+# 134
+ZH:  带着耳朵听领导告知具体操作步骤。
+HYP: the weather has been made to be used to make them .
+REF: with ears to hear the leadership of this specific steps .
+
+# 135
+ZH:  人是能思考的动物。
+HYP: so much is a lot of course .
+REF: man is a thinking animal .
+
+# 136
+ZH:  死刑在我国是合法的。
+HYP: the weather is a lot of this week .
+REF: capital punishment is legal in our country .
+
+# 137
+ZH:  我们现在正在储蓄准备购买一辆新车。
+HYP: we need a new york . we have a new book .
+REF: we are saving up for a new car .
+
+# 138
+ZH:  汤姆向彼德提出了一份计划。
+HYP: tom : tom have a new york .
+REF: tom suggested the plan to peter .
+
+# 139
+ZH:  我们可不可以以信用卡付账？
+HYP: what can we have a lot of us ?
+REF: can we use a credit card to pay the bill ?
+
+# 140
+ZH:  妈妈（爸爸）该上班了。
+HYP: we have a lot of the house .
+REF: mum ( dad ) should go to work now .
+
+# 141
+ZH:  有时候，似乎除了性之外还有别的什么在发生中。
+HYP: sometimes , the problem is a thurs .
+REF: something else besides sex seems to be going on .
+
+# 142
+ZH:  你懂我在说什么吧？
+HYP: do you know what do you know ?
+REF: you know what im saying ?
+
+# 143
+ZH:  他叫我打电话给他跟他谈我的作品。
+HYP: he had a lot of him to me .
+REF: he told me to call him about my project .
+
+# 144
+ZH:  他们回家为了回忆。
+HYP: they have a lot of them .
+REF: they come home to remember .
+
+# 145
+ZH:  我得在他的工作表上再加第四个手术。
+HYP: i have a new york of the first life .
+REF: i need to fit a fourth operation into his schedule .
+
+# 146
+ZH:  我想是一个警察。为什么？
+HYP: can i want to do you ?
+REF: i'd like to be a policeman . why ?
+
+# 147
+ZH:  天晚了，所以我就回家了。
+HYP: although , i know what i am sorry .
+REF: it was late , so we went home .
+
+# 148
+ZH:  开始会轻一点，看看你哪里疼。
+HYP: no , you think , you want to see you .
+REF: we'll start easy and see where you're tender .
+
+# 149
+ZH:  让孩子快乐的体验真正的音乐课！
+HYP: don't worry in the news !
+REF: let babies feel real music classes happily !
+
+# 150
+ZH:  注意不要把脚弄湿了。
+HYP: i don't have a new york .
+REF: be careful not to wet your feet .
+
+# 151
+ZH:  我们帮她们一把吧。
+HYP: i think she told her to her .
+REF: let's get them a little assistance .
+
+# 152
+ZH:  我希望今天上午把帐单给我准备好。
+HYP: i think i think i think i think i think i have me .
+REF: i'd like my bill ready this morning .
+
+# 153
+ZH:  我在（给与人们）低期望值这方面是专家。
+HYP: i have a lot of the rules .
+REF: i am the master of the low expectations .
+
+# 154
+ZH:  当然，名称可以随便使用。
+HYP: yes , you have a new york .
+REF: but , of course , you can call them whatever you want .
+
+# 155
+ZH:  职业足球运动员以踢足球为生。
+HYP: the police went in a new york .
+REF: professional football players earn their living by playing football .
+
+# 156
+ZH:  或者我该改掉这个坏习惯。
+HYP: i have a lot of the same .
+REF: maybe i should give up this bad habit .
+
+# 157
+ZH:  我以为你是美国人。
+HYP: i think you have a lot .
+REF: i thought you were american .
+
+# 158
+ZH:  今天你的脚还是给你造成麻烦了？
+HYP: what do you think i have to do you ?
+REF: do your feet still trouble you ?
+
+# 159
+ZH:  证据和她的陈述一致。
+HYP: the weather has been here for her man .
+REF: the evidence checked with her statement .
+
+# 160
+ZH:  我想给你我最珍贵的。
+HYP: i think i think i have been here .
+REF: i want to give you my precious .
+
+# 161
+ZH:  她挣的钱不够开支。
+HYP: she is a new york .
+REF: what she made wasn't enough to cover her expenses .
+
+# 162
+ZH:  不，实际上，跟我有关。
+HYP: no , not , it is too much .
+REF: dan : no , it is , actually .
+
+# 163
+ZH:  别忘了在你回家的路上把这封信寄了。
+HYP: don't worry to make a lot of them .
+REF: don't forget to post the letter on your way home .
+
+# 164
+ZH:  我看着她无神的大眼睛。
+HYP: i think she is in the meeting .
+REF: i looked into her big pale eyes .
+
+# 165
+ZH:  一支完备了的教师队伍！
+HYP: there is a lot of the sun of the office !
+REF: a better set of excellent teachers !
+
+# 166
+ZH:  我能提供帮助真是太高兴了。
+HYP: i think i think i have been here .
+REF: i am only too glad to be of any help .
+
+# 167
+ZH:  他去年参了军。
+HYP: he had a new york .
+REF: he joined the army last year .
+
+# 168
+ZH:  那么，为何不告诉她？
+HYP: oh , i think she was late ?
+REF: penny : well , why don't you tell her ?
+
+# 169
+ZH:  好好睡一下对你会有好处的。
+HYP: it is not to be able to be here .
+REF: a sound sleep would do you good .
+
+# 170
+ZH:  他向上仰望，看哪个窗户是他的。
+HYP: he is a good time , he was a moment .
+REF: he looked up and saw which window was his .
+
+# 171
+ZH:  愿意在巨大压力下工作。
+HYP: you have a new york .
+REF: willing to work under huge pressure .
+
+# 172
+ZH:  请你再忍耐一下，门巴马上就要来了。
+HYP: i want to make a lot of them .
+REF: be patient for a while . the doctor is coming .
+
+# 173
+ZH:  你现在在哪学习呢？
+HYP: what do you want to do ?
+REF: where do you study now ?
+
+# 174
+ZH:  我认为他无需请求允许。
+HYP: i don't know what you want to do .
+REF: i don't think he need ask for permission .
+
+# 175
+ZH:  哈利，你喜欢歌剧吗？
+HYP: what do you think if you want to do ?
+REF: a : harry , do you like the opera ?
+
+# 176
+ZH:  那就祝你走运。
+HYP: it is a good letter to you .
+REF: then good luck to you .
+
+# 177
+ZH:  自从我们在学校认识之后，我们就一直是好朋友。
+HYP: no . we have a lot of the first life .
+REF: we've been friends ever since we met at school .
+
+# 178
+ZH:  你要是和我想法一样，那就和我投一样的票吧。
+HYP: you are so much , i know , so much , it .
+REF: if you think as i do , vote as i do .
+
+# 179
+ZH:  你先走一步，告诉他们，我们马上就到。
+HYP: if you know , we can see it .
+REF: you go ahead and tell them we'd be there shortly .
+
+# 180
+ZH:  你看到名字里面是什么吗？
+HYP: what do you think of your luggage ?
+REF: do you see where first name is ?
+
+# 181
+ZH:  那些衣服十分昂贵。
+HYP: it is going to take it .
+REF: the clothes are dear enough .
+
+# 182
+ZH:  爸，你能不能告诉我那是什么意思呢？
+HYP: yes , do you know about me ?
+REF: dad , can you just tell me what it means ?
+
+# 183
+ZH:  请把我的大衣挂回去，现在我还不想走呢。
+HYP: please tell me when i know what i don't know , please .
+REF: hang my coat back , i'm not going now .
+
+# 184
+ZH:  她离开五年了。
+HYP: she is a good time .
+REF: she stopped away for five years .
+
+# 185
+ZH:  安必须什么时候走？
+HYP: why did you have a job ?
+REF: when has ann got to go ?
+
+# 186
+ZH:  清晰定义自己的价值链。
+HYP: many students have a great deal of the world .
+REF: clearly define your value chain .
+
+# 187
+ZH:  在这里我有一群朋友。
+HYP: i think i think i have been here .
+REF: i have a circle of friends here .
+
+# 188
+ZH:  那个问题很难，解答它要几个小时。
+HYP: it is a lot of them .
+REF: that problem was hard . its solution required many hours .
+
+# 189
+ZH:  我们真的喜爱运动。
+HYP: we have a lot of work .
+REF: we really love sports .
+
+# 190
+ZH:  其他案件由审判员一人独任审理。
+HYP: there is a new company of the fire .
+REF: other cases shall be tried by a single judge alone .
+
+# 191
+ZH:  你周末可以用我的车。一言为定。
+HYP: you can take a lot of my friends .
+REF: you can use my car this weekend . it's a deal .
+
+# 192
+ZH:  但孩子们承认他们没有读过他们。
+HYP: but they went to make them .
+REF: but the children admit they haven't read them .
+
+# 193
+ZH:  瞧这拥挤的交通。太糟糕了！
+HYP: it is a little , but not a little boy !
+REF: look at the traffic . it's terrible !
+
+# 194
+ZH:  接触阻力很难测量。
+HYP: it is a lot of the hotel .
+REF: the contact resistance is difficult to measure .
+
+# 195
+ZH:  上帝在他的天堂，人间一切安然。
+HYP: oh , i have a lot of the life .
+REF: god is in his heaven , all right with the world .
+
+# 196
+ZH:  首先，你必须明白他所做的这一切都是为了你。
+HYP: you must know what he would like to do .
+REF: first of all , i must finish my work .
+
+# 197
+ZH:  持续改进有助于计划制定吗？
+HYP: how much is the sun of the table ?
+REF: can continuous improvement be a help in planning ?
+
+# 198
+ZH:  我可以洗盘子和打扫我的卧室。
+HYP: i have a lot of my life .
+REF: i can wash dishes and clean my bedroom .
+
+# 199
+ZH:  我们的产品具备您所需的所有特色。
+HYP: we have a lot of the company of the company .
+REF: our product has all the features you need .
+
+# 200
+ZH:  我头脑里从未有过这种念头。
+HYP: i have a lot of the meeting of the office .
+REF: such an idea has never entered my head .
+
+# 201
+ZH:  切记：心之所愿，无所不成。
+HYP: let me : i have been too long .
+REF: remember : nothing is impossible for a willing heart .
+
+# 202
+ZH:  你的实验室工作人员有适当的背景和经验？
+HYP: how much is the meeting of your life ?
+REF: do lab personnel have appropriate background and experience ?
+
+# 203
+ZH:  请问，这个圆圈是完美无缺的圈吗？
+HYP: what kind of course is the matter ?
+REF: is the circle a perfect circle ?
+
+# 204
+ZH:  我现在去上学了。
+HYP: i think i have a lot .
+REF: i'm off to school now .
+
+# 205
+ZH:  她的话语开始在我的脑海里建立起一个形象。
+HYP: her mother was a great deal of my life .
+REF: her words began to create an image in my mind .
+
+# 206
+ZH:  包太重了拿不动。
+HYP: there is too hard to go to the world .
+REF: the bag is too heavy to carry .
+
+# 207
+ZH:  她当然并不傻。
+HYP: she did not think she was her .
+REF: she certainly does not want intelligence .
+
+# 208
+ZH:  他祖母去世了。
+HYP: he is a new york .
+REF: his grandmother is sleeping her last sleep .
+
+# 209
+ZH:  由专用小交换机提供服务的电话分机。
+HYP: the police was a new company of the worlds .
+REF: each telephone served by a private branch exchange .
+
+# 210
+ZH:  我想，我一定很爱你。
+HYP: i think i know you know you .
+REF: i thought that i love you certainly very much .
+
+# 211
+ZH:  做广告的根本目的是要多出售货物。
+HYP: you must have a new york .
+REF: the primary reason for advertising is to sell more goods .
+
+# 212
+ZH:  我很乐意向您推荐鱼。
+HYP: i think you have a new york .
+REF: i am happy to recommend the fish .
+
+# 213
+ZH:  首先，你的工资按月薪的形式支付。
+HYP: and , you have a new york .
+REF: first , you will get a monthly salary .
+
+# 214
+ZH:  我经常做汽车去旅行。
+HYP: i think i have a week .
+REF: i often travel by bus .
+
+# 215
+ZH:  先生，祝您生日快乐。
+HYP: sir , sir . sir . smith .
+REF: i wish you a happy birthday , sir .
+
+# 216
+ZH:  我无法把它提交给总经理。
+HYP: i have a new york .
+REF: i can't present this to the general manager .
+
+# 217
+ZH:  今年流行粉红色。
+HYP: it is a new york .
+REF: pink is quite in fashion this year .
+
+# 218
+ZH:  就是妈妈参加小组会议。
+HYP: the we have a new york .
+REF: or mom is at a committee meeting .
+
+# 219
+ZH:  一切从几个，好几个月前开始。
+HYP: no . i have a lot of my life .
+REF: it all started months an months ago .
+
+# 220
+ZH:  她这位艺术家的作品令我赞赏不已。
+HYP: she is a new york .
+REF: she's an artist whose work i really admire .
+
+# 221
+ZH:  好，我打电话让你爸买鱼回来。
+HYP: so , i know , i have a lot of them .
+REF: ok , i phone to your father to buy a fish .
+
+# 222
+ZH:  你对这一赛季有何期待？
+HYP: what do you think in the right ?
+REF: what are you looking forward to this season ?
+
+# 223
+ZH:  你可以拿第2个盒子，或者两个都拿。
+HYP: you can be able , it is a lot .
+REF: you may choose box 2 alone or both boxes .
+
+# 224
+ZH:  他有一台电视机。
+HYP: he is a very letter .
+REF: he has got a tv set .
+
+# 225
+ZH:  可以使用多种其他方法来完成此任务。
+HYP: you can have a new new york .
+REF: there are many other ways this could be done .
+
+# 226
+ZH:  具有较强热处理及加工能力。
+HYP: the keys is a collection .
+REF: with strong heat treatment and processing capacity .
+
+# 227
+ZH:  玛丽没有回答，反而离开了房间。
+HYP: mary goes me , let me to you .
+REF: mary didn't reply . instead , she left the room .
+
+# 228
+ZH:  很抱歉，今晚客人太多拉。
+HYP: i'm sorry , i think i know .
+REF: i am sorry . we have so many guests this evening .
+
+# 229
+ZH:  周一我们测验了一些选择题。
+HYP: we have a lot of new york .
+REF: i am giving them a multiple choice test this monday .
+
+# 230
+ZH:  昨天下了场雨。
+HYP: there is not working in the house .
+REF: yesterday we had some rain .
+
+# 231
+ZH:  看来我的朋友无论什么情况下。
+HYP: then i have a lot of course .
+REF: to know my friend no matter what .
+
+# 232
+ZH:  小鸟是站在它们的蛋上来给它们的蛋保暖的。
+HYP: this is a new york of thems of them .
+REF: birds sit on their eggs to keep them warm .
+
+# 233
+ZH:  这桌布的颜色会一点一点掉的。
+HYP: this is a lot of the sun of life .
+REF: the color of the table cloth will little by little .
+
+# 234
+ZH:  我最迟星期日动身去上海。
+HYP: i think i have a new york .
+REF: i shall start for shanghai on sunday at the latest .
+
+# 235
+ZH:  详细信息显示在设备列表视图中。
+HYP: there is a new company in the company .
+REF: the detail information displayed in the equipment list view .
+
+# 236
+ZH:  开原市有高大的建筑物。
+HYP: the students will be used to the best .
+REF: there are tall buildings in the city .
+
+# 237
+ZH:  创建文件夹在您的菜单。
+HYP: the government is a huge of the world .
+REF: create folder on your menu .
+
+# 238
+ZH:  同样也需要一定的创造力和想象力。
+HYP: the resultss will be used to the rules .
+REF: it also needs the ability of creative and imagination .
+
+# 239
+ZH:  我以前不喜欢读诗歌。
+HYP: i don't know what i have been here .
+REF: i hadn't liked to read poems before .
+
+# 240
+ZH:  玛丽拖了几分钟才去开门。
+HYP: mary would be a new york .
+REF: mary answered the door for a few minutes .
+
+# 241
+ZH:  他们暂时还不会受到影响。
+HYP: they have a lot of them .
+REF: yet they may not be affected for a while .
+
+# 242
+ZH:  新桥的工作正在继续进行之中。
+HYP: the child is noted in the train .
+REF: work is going ahead on the new bridge .
+
+# 243
+ZH:  这感觉还会延续好一阵。
+HYP: this is a very nice .
+REF: it might even stick for bit longer .
+
+# 244
+ZH:  这部电影票房收入不佳。
+HYP: this is a very important role in this week .
+REF: the movie was not a commercial success .
+
+# 245
+ZH:  你觉得谁会代替她参加这场演出？
+HYP: what did you think she was going to hernic ?
+REF: who do you suppose will replace her on the show ?
+
+# 246
+ZH:  湾教师。我有一个问题。
+HYP: i have a lot of me .
+REF: b . teacher . i have a question .
+
+# 247
+ZH:  完美的武器和绝佳的机会都在我这一边。
+HYP: the weather has been out of the weather .
+REF: an excellent weapon and luck had been on my side .
+
+# 248
+ZH:  它取决于你要举多久。
+HYP: it is not to be able to you .
+REF: it depends on how long you hold it .
+
+# 249
+ZH:  他对这种事情不感兴趣。
+HYP: he is not her .
+REF: he had no interest in such matters .
+
+# 250
+ZH:  地上覆盖着厚厚的积雪。
+HYP: the child was a lot of the samey .
+REF: the ground was covered over with thick snow .
+
+# 251
+ZH:  不要干损人利已的事。
+HYP: don't worry to make a new york .
+REF: don't try to benefit at the expense of others .
+
+# 252
+ZH:  我可以延期接受你的邀请吗？
+HYP: can i know what do you want to do ?
+REF: can i have a rain check on your invitation ?
+
+# 253
+ZH:  我会想你，在慢慢路程的每一步。
+HYP: i think you have a lot of your name .
+REF: i'll think of you every step of the way .
+
+# 254
+ZH:  请不要把我刚才告诉你的话对别人说。
+HYP: please tell me you know what i don't know you .
+REF: please don't repeat what i have just told you .
+
+# 255
+ZH:  北京新世界热能高科技发展有限公司。
+HYP: we have a new project of the new project .
+REF: beijing new world heat energy high technology development co . ltd .
+
+# 256
+ZH:  那星星可以用肉眼看见。
+HYP: it is a lot of the hotel .
+REF: the star is visible .
+
+# 257
+ZH:  他这个人可真有趣！
+HYP: he is a lot of this job !
+REF: what a fun person he is !
+
+# 258
+ZH:  我找到了我丢失的表。
+HYP: i think i think i have been here .
+REF: i found the watch which i had lost .
+
+# 259
+ZH:  网络环境会变得更安全吗？
+HYP: how much is the meeting of the radio ?
+REF: will online environment ever become more secure ?
+
+# 260
+ZH:  看，我做了些什么？
+HYP: yes , do you want to do here ?
+REF: see what i've been dealing with ?
+
+# 261
+ZH:  愤怒的人群冲开大门。
+HYP: he has a great deal of the fire .
+REF: the angry crowd burst the gate open .
+
+# 262
+ZH:  我才不会爽约哪。
+HYP: i don't know what you want to learn .
+REF: no , i won't break the appointment .
+
+# 263
+ZH:  我希望这笔小贷款能使你渡过难关。
+HYP: i hope you have a lot of work .
+REF: i hope this small loan will see you through .
+
+# 264
+ZH:  引用定义的数组实现电流流通路径显示。
+HYP: the keys is a collection of the system .
+REF: the path display of circuit was realized with defined array .
+
+# 265
+ZH:  你们可以轻声跟读。
+HYP: you have a lot of this time .
+REF: please read it follow me quietly .
+
+# 266
+ZH:  别人和你讲话时，你从来不注意听。
+HYP: when i don't know you know you know you know .
+REF: you never pay attention to when people talk to you .
+
+# 267
+ZH:  感谢你。请你在这里签名好吗？
+HYP: what do you think i think about you here ?
+REF: thank you . can you sign here , please ?
+
+# 268
+ZH:  该系统采用直接序列扩频技术。
+HYP: it is a commages of the country .
+REF: this system is a direct sequence spread system .
+
+# 269
+ZH:  你在副驾驶座上干什么呢？
+HYP: what do you think of your room ?
+REF: what were you doing in the passenger seat ?
+
+# 270
+ZH:  我跟老板面谈过了。
+HYP: i have a new york .
+REF: i had an interview with the boss .
+
+# 271
+ZH:  客房明白了，洗好的衣服什么时候要？
+HYP: this is the bested , sir ?
+REF: i see . when shall we get the laundry back ?
+
+# 272
+ZH:  我倒希望没有花那么多钱。
+HYP: i think i think i have been here .
+REF: i wish i so much money .
+
+# 273
+ZH:  我们无法突破到海岸。
+HYP: we have a lot of us .
+REF: we can't break through to the coast .
+
+# 274
+ZH:  问题解决后，会议结束了。
+HYP: it is not enough to the world .
+REF: the question settled , the meeting was over .
+
+# 275
+ZH:  法治是香港的核心价值。
+HYP: the problem is not more than your life .
+REF: rule of law is a core value of hong kong .
+
+# 276
+ZH:  对各信息设置格式，以引起注意。
+HYP: it is a lot of them , and the world .
+REF: format individual information to call attention to it .
+
+# 277
+ZH:  我认为它们是同一件事。
+HYP: i think they have a lot of them .
+REF: i think they are the same thing .
+
+# 278
+ZH:  答应我你不会站在路灯下。
+HYP: i don't know what you have a new york .
+REF: promise me you won't stand by the line .
+
+# 279
+ZH:  指示数组的大小。
+HYP: it is a small question .
+REF: that indicates the size of the array .
+
+# 280
+ZH:  这些书全都是我的。
+HYP: thesely have a lot of my heart .
+REF: all these books are mine .
+
+# 281
+ZH:  他上高中。
+HYP: he had a new york .
+REF: he's in high school .
+
+# 282
+ZH:  舒适性是现代汽车一项重要的性能指标。
+HYP: the keys is an important role in the company .
+REF: comfort is a main performance index for modern vehicle .
+
+# 283
+ZH:  告诉你吧，这就是问题所在。
+HYP: i know what you have a lot .
+REF: let me tell you what , that's exactly the problem , though .
+
+# 284
+ZH:  路人：她的鼻子都快陷到书里去了！
+HYP: a : yes : yes , i know what i know like it !
+REF: men : and her nose stuck in a book !
+
+# 285
+ZH:  但是若你从民众中征税来建设公共学校。
+HYP: but you want to make the world of the world .
+REF: but if you tax people to create public schools .
+
+# 286
+ZH:  我会努力学习以使自己的梦想成真。
+HYP: i think i have a lot of this week .
+REF: i will work hard and make my dreams come true .
+
+# 287
+ZH:  要我选我就选高个的。
+HYP: i think i think i have a lot of me .
+REF: b : i should take the taller one for the choice .
+
+# 288
+ZH:  你为这支钢笔付了多少钱？
+HYP: do you have a lot of the office ?
+REF: how much did you ( pay for ) the pen ?
+
+# 289
+ZH:  我能摸到一些柔软的东西，我想它是薄纸。
+HYP: i don't know , i know if you want to do .
+REF: i can feel something soft . i think it's a tissue .
+
+# 290
+ZH:  我吃了好多好吃的食物。
+HYP: i know what i like a good thing .
+REF: i have eaten a lot of food .
+
+# 291
+ZH:  没有人受伤，只是报导了一些次要的毁损。
+HYP: the wind is a huge of the storm .
+REF: no one was hurt and only minor damage was reported .
+
+# 292
+ZH:  他在街上四处游荡想找点事做。
+HYP: he is a new job of the picture of the world .
+REF: he about the street looking for something to do .
+
+# 293
+ZH:  他的朋友圈子很小。
+HYP: his mother is very important .
+REF: he has a small circle of friends .
+
+# 294
+ZH:  这个男孩吃完了他的苹果。
+HYP: his mother was in his mother .
+REF: the boy has finished his apple .
+
+# 295
+ZH:  说明使用这种方法两个好处。
+HYP: there is a new company in the meeting .
+REF: explain two advantages of using this approach .
+
+# 296
+ZH:  你要特别小心。
+HYP: it is not a very day .
+REF: you cannot take sufficient care .
+
+# 297
+ZH:  技术股涨势尤其疯狂。
+HYP: the judinal swed in the country .
+REF: in particular , the technology sector grew like crazy .
+
+# 298
+ZH:  如何下载视频歌曲到内存卡上？
+HYP: do you think they have seen a new year ?
+REF: how to download video for the song to memory card ?
+
+# 299
+ZH:  白色，白色。摸地板。
+HYP: the old man , in the world .
+REF: white , white . touch the ground .
+
+# 300
+ZH:  所有国家都能受益，尤其是发展中国家。
+HYP: there is a commion of the fire .
+REF: all stand to benefit , especially developing countries .
+
+# 301
+ZH:  你要看看这工艺方法（机器）吗？
+HYP: what do you think there are in the company ?
+REF: would you like to see this process ( machine ) ?
+
+# 302
+ZH:  这真是黑色的一天。
+HYP: this is a good time .
+REF: this is really a black day .
+
+# 303
+ZH:  我察觉到她会有怎样的感受。
+HYP: i don't know what she was no longer than her .
+REF: i became aware how she might feel .
+
+# 304
+ZH:  秋天的雾景是多么美啊！
+HYP: this is a goodum !
+REF: king autumn fog how the united states and ah !
+
+# 305
+ZH:  我们有新货可供时，将考虑你们的需要。
+HYP: we have a new books , we have a long time .
+REF: we'll see to your requirements when we have fresh supplies .
+
+# 306
+ZH:  我认为，除了从中吸取教训之外，别无他法。
+HYP: i don't know , but not think he had no longer , it .
+REF: i don't think so , except learning from them .
+
+# 307
+ZH:  这里是要牢记的五条实用建议。
+HYP: it is a problem for the right .
+REF: here are five practical suggestions to keep in mind .
+
+# 308
+ZH:  审计委员会制度在国外已经有很长的发展历史。
+HYP: the new projects in the world of the world .
+REF: the audit committee has a long history in foreign countries .
+
+# 309
+ZH:  在法国，这样的例子并不多见。
+HYP: don't worry , it is not so much .
+REF: in france , it's hard to find a comparison .
+
+# 310
+ZH:  你总是纠正我的错误。
+HYP: you should have a lot of my life .
+REF: you always correct my mistakes .
+
+# 311
+ZH:  我们沿着墙走了很长的一段路。
+HYP: we have a lot of the meeting of the life .
+REF: we had a long walk along the wall .
+
+# 312
+ZH:  贵公司眼下的目标是什么？
+HYP: what is the best of the company of the company ?
+REF: what is your immediate goal for your company ?
+
+# 313
+ZH:  你能不能闭上嘴？
+HYP: can you know what can do ?
+REF: could you please button up your mouth ?
+
+# 314
+ZH:  这叫我有何面目再向江东？
+HYP: how much is the meeting of the best .
+REF: how now can i face the common people ?
+
+# 315
+ZH:  我的家乡已变成了一个美丽的现代化城市。
+HYP: my country is a huge of my country .
+REF: my hometown has changed into a beautiful modern city .
+
+# 316
+ZH:  他朝北方前进。
+HYP: he is going to finish the meeting .
+REF: he took his way to the north .
+
+# 317
+ZH:  我们讨论了我们该做什么以及该上哪儿去。
+HYP: we have somewed to ourselves .
+REF: we discussed what to do and where we should go .
+
+# 318
+ZH:  由于担心被跟踪，他不时地回头看看。
+HYP: i don't know , the new york .
+REF: he looked back now and then , afraid of being followed .
+
+# 319
+ZH:  用方框里适当的句子补全对话。
+HYP: the police was working in the meeting of the world .
+REF: complete the conversation with the proper sentence in the box .
+
+# 320
+ZH:  我们想设法使这个人得到公平的待遇。
+HYP: we think we have a new york .
+REF: we want to see that this man gets fair treatment .
+
+# 321
+ZH:  外资银行的进入将带来不可避免的巨大风险。
+HYP: the old man is in the sun of the country .
+REF: foreign banks will bring some inevitable enormous risks .
+
+# 322
+ZH:  我来介绍你认识这本书的编辑。
+HYP: i hope you have a good time .
+REF: i would like to introduce you to your editor .
+
+# 323
+ZH:  最好春天时去中国旅游。现在那儿冷得要命。
+HYP: it is a huge of the best .
+REF: spring . now it's as cold as anything .
+
+# 324
+ZH:  世界上又多了一个经济泡沫？
+HYP: what do you want to make us with us ?
+REF: has the world got a new bubble economy ?
+
+# 325
+ZH:  在拿我的书之前，请你先洗手。
+HYP: i have a lot of my life .
+REF: wash your hands before you handle my books , please .
+
+# 326
+ZH:  你对他的建议有何想法？
+HYP: what do you think his father ?
+REF: how do you consider his suggestion ?
+
+# 327
+ZH:  现在谁可以来教我一个睡觉的办法？
+HYP: what can i know what do you like me ?
+REF: now who can teach me the way of a sleeping ?
+
+# 328
+ZH:  我睡在靠门最近的那张床上。
+HYP: i think i have been in the next week .
+REF: i slept in the bed nearest the door .
+
+# 329
+ZH:  一旦你注册，你可以让你的第一笔存款。
+HYP: you should know , you have a lot of your life .
+REF: once are signed up , you can make your first spend .
+
+# 330
+ZH:  它们听见火车的声音然后赶忙跑开。
+HYP: they want to have a lot of them .
+REF: they heard the noise of the train and hurried off .
+
+# 331
+ZH:  今年我们可能会新增一个事业部。
+HYP: we must have a great deal of the country .
+REF: it's likely that we'll add a new division this year .
+
+# 332
+ZH:  说明如何更改列的标识属性。
+HYP: the company has been used to the fire .
+REF: describes how to change the identity properties of a column .
+
+# 333
+ZH:  我们讨论了每种可能的对策。
+HYP: we have a new york . we have been here .
+REF: we discussed every possible approach .
+
+# 334
+ZH:  教育究竟是什么？
+HYP: why did you know ?
+REF: what do you do inside my car actually ?
+
+# 335
+ZH:  你们这些男人都是铁石心肠。
+HYP: you must have a lot of the best .
+REF: all you men have no heart .
+
+# 336
+ZH:  你不习惯冷天气吗？
+HYP: do you want to do ?
+REF: you are not used to cold weather ?
+
+# 337
+ZH:  我应该戴眼镜。
+HYP: i don't have a letter .
+REF: i should have worn my glasses .
+
+# 338
+ZH:  在草上有一个标志。它的意思是什么？
+HYP: what is the best of the police of the world .
+REF: there's a sign on the grass . what does it mean ?
+
+# 339
+ZH:  我们有一位仁慈的老板。
+HYP: we have a new york .
+REF: we have a kind boss .
+
+# 340
+ZH:  人们观看学生们打篮球。
+HYP: i have a new york .
+REF: c . the students were watched to play basketball .
+
+# 341
+ZH:  首先从经济上考虑。
+HYP: the meeting of the meeting of the world .
+REF: first , let's consider the economics .
+
+# 342
+ZH:  产生一个需要访问的指令地址流。
+HYP: the old man is a lot of the rules .
+REF: a need to access the instruction address stream .
+
+# 343
+ZH:  先完成钢结构屋面。
+HYP: it was a great deal of the country .
+REF: finish the facing of steel structure first .
+
+# 344
+ZH:  我们尽情地连吃带喝饱餐了一顿。
+HYP: we have a lot of the house .
+REF: that fellow needs to be told .
+
+# 345
+ZH:  他的鞋是昨天洗的。
+HYP: he is the meeting of the house .
+REF: his shoes were washed yesterday .
+
+# 346
+ZH:  对我而言，事情虽小但意义重大。
+HYP: so it is too long , but there is not enough .
+REF: to me it is the small things that count .
+
+# 347
+ZH:  操控声音：创造非常特殊的声音。
+HYP: we must have a lot of them .
+REF: control sound . you can create very specific sounds .
+
+# 348
+ZH:  暖气不加收费。
+HYP: it is not to be able to help .
+REF: there is no extra charge for heating .
+
+# 349
+ZH:  白色的世界是那么的安宁。
+HYP: the boy is going to be late .
+REF: white world is so peaceful .
+
+# 350
+ZH:  他拿着鱼，快乐地笑着离开了。
+HYP: he had a lot of his mother .
+REF: he took the fish and left laughing happily .
+
+# 351
+ZH:  与人们见面是件重要的动作。
+HYP: it is a new york of our country .
+REF: meeting people is very important .
+
+# 352
+ZH:  你考虑一下，然后决定是否想要这个职位。
+HYP: you have a lot of your own days .
+REF: look about and decide if you like the position .
+
+# 353
+ZH:  因此，在这里，我们是在学校礼堂。
+HYP: now , we are not our school .
+REF: so here we are in the school hall .
+
+# 354
+ZH:  如果价格下降，人们就会买。
+HYP: if you don't know , if you know , you know , it .
+REF: if prices drop , people will buy .
+
+# 355
+ZH:  那他们怎么还没给我们确切的答复？
+HYP: what kind of us are you want to do ?
+REF: b : so why haven't they given us a firm answer ?
+
+# 356
+ZH:  在塔尔博特的厨房餐桌多费些时间能行吗？
+HYP: what kind of the samehes will be used in the meeting ?
+REF: more time at the kitchen table ?
+
+# 357
+ZH:  请问，在这附近有超市吗？
+HYP: can i have a lot of your name ?
+REF: excuse me , is there a supermarket near here ?
+
+# 358
+ZH:  以上服务均受服务通用条款约束。
+HYP: the new projectss will be used in the world .
+REF: the services above are bound to general condition of service .
+
+# 359
+ZH:  当你摔倒时，拍去尘土，别停下来。
+HYP: if you know , i don't know , you know , it .
+REF: if you fall , dust it off , don't let up .
+
+# 360
+ZH:  自从约翰不在那里工作以后，我们再也没有收到他的来信。
+HYP: we have a lot of the first life .
+REF: we haven't heard from john since he worked there .
+
+# 361
+ZH:  中国当代艺术就这样下去了吗？
+HYP: how much is the meeting of the company ?
+REF: what is the future of chinese contemporary art ?
+
+# 362
+ZH:  那个地方可够冷的，你就别去了。
+HYP: it is not happy , you know , it .
+REF: it's really cold in that place . don't go there .
+
+# 363
+ZH:  你的衣服都很有品味。
+HYP: your coat is a lot of your country .
+REF: your clothes are always in good taste .
+
+# 364
+ZH:  他只想待在这儿。
+HYP: he said him to do it .
+REF: he wants nothing but to stay here .
+
+# 365
+ZH:  他需要父母亲打扫卧室。
+HYP: he was no interest in the news .
+REF: he needs his parents to clean his bedroom .
+
+# 366
+ZH:  他在给我道故事。
+HYP: he is my friends .
+REF: he's telling me a story .
+
+# 367
+ZH:  运动对于心脏健康非常重要。
+HYP: there is not a lot of course .
+REF: exercise is very important for a healthy heart .
+
+# 368
+ZH:  人群从剧院蜂拥而出。
+HYP: there is not a greated in this week .
+REF: the people poured out of the theater .
+
+# 369
+ZH:  这种情况引起我的深思。
+HYP: it is my friends .
+REF: it made me think very deeply .
+
+# 370
+ZH:  在项目处理中加强有竞争性的价格。
+HYP: there is a new company of the fire .
+REF: enhance competitive cost in terms of projects handling .
+
+# 371
+ZH:  他们也喜欢玩枪。
+HYP: they have a lot of them .
+REF: they like their guns there too .
+
+# 372
+ZH:  你是唯一的，是独一无二的。
+HYP: it is a lot of them .
+REF: you're unique and one of a kind .
+
+# 373
+ZH:  我真希望能认识他。
+HYP: i don't know what he would like him .
+REF: i wish i'd known him .
+
+# 374
+ZH:  这种活动立刻吸引了大批年轻人。
+HYP: the country is a lot of the fire .
+REF: such activities immediately attracted a large number of young people .
+
+# 375
+ZH:  活着是艰难的，我们需要真实的人际关系。
+HYP: finally , it is very nice , and well .
+REF: life is hard . we need real relationships .
+
+# 376
+ZH:  这小娃娃挺好玩儿。
+HYP: this is a lot of the samey .
+REF: the baby is very cute .
+
+# 377
+ZH:  同时提出了预防内部过电压的几种方法。
+HYP: there is a new company of the internetion of them .
+REF: thus presented some methods to prevent inner over voltage .
+
+# 378
+ZH:  她妈妈是干什么工作的？
+HYP: how does she is a job ?
+REF: what's her mother's job ?
+
+# 379
+ZH:  但是我有一辆车，要支付它的费用。
+HYP: but i have a lot of them .
+REF: but i have a car to pay for .
+
+# 380
+ZH:  空洞式很有意思。
+HYP: the question is going to the house .
+REF: empty love is kind of interesting .
+
+# 381
+ZH:  从现在开始，你可以安静过活了。
+HYP: it is not enough to go to see it .
+REF: you live quietly from now on .
+
+# 382
+ZH:  告诉他等一等，我一会儿就来。
+HYP: i don't know , he is too long .
+REF: tell him to hold on a moment ; i'll come soon .
+
+# 383
+ZH:  我不愿冒丢掉它的风险。
+HYP: i don't know what i have been in the company .
+REF: i would not risk the loss of it .
+
+# 384
+ZH:  我得说我觉得这很合理。
+HYP: i have a lot of the weather .
+REF: i must say i find it quite reasonable .
+
+# 385
+ZH:  她正在想念自己的情人。
+HYP: she is not a very day .
+REF: she is missing her love .
+
+# 386
+ZH:  这事并未动摇他的决心。
+HYP: it is not his mother .
+REF: this did not shake his resolve .
+
+# 387
+ZH:  你讲英语时仍用汉语思维吗？
+HYP: what do you think about the house ?
+REF: do you still think in chinese when you're speaking english ?
+
+# 388
+ZH:  用大冰块搭建营地。
+HYP: the children has beened in the fire .
+REF: the construction of a camp of ice blocks .
+
+# 389
+ZH:  不要因为终结而哭，要为曾经发生而笑。
+HYP: don't worry , though it was not happy , though it .
+REF: don't cry because it is over , smile because it happened .
+
+# 390
+ZH:  我会拉你靠近，接着踏前一步。
+HYP: i think you have a new york .
+REF: i will pull you close , and take one step .
+
+# 391
+ZH:  画出头发与脚上的阴影。
+HYP: in the country is a new company .
+REF: painting hair and the shadow on the feet .
+
+# 392
+ZH:  一点风都没有。
+HYP: but it is so much .
+REF: there was not a breath of air .
+
+# 393
+ZH:  一起的话，你便能达到真正的平衡和前进。
+HYP: the first , you have been going to the first .
+REF: together , you can really balance and move forward .
+
+# 394
+ZH:  路吗？你家门牌几号？
+HYP: can you tell me you have a minute ?
+REF: green road ? what's your house number ? green .
+
+# 395
+ZH:  他们是一类人。
+HYP: they have a lot of them .
+REF: they are the same sort of people .
+
+# 396
+ZH:  你怎敢这样说？
+HYP: do you know what do you want to do ?
+REF: how dare you say so ?
+
+# 397
+ZH:  假若我强烈需求你愿躺在我身旁吗？
+HYP: what do i think i have to do you ?
+REF: if my needs were strong , would you lay with me ?
+
+# 398
+ZH:  过马路的时候你要当心。
+HYP: you don't know what you have a very happy .
+REF: look out when you are crossing the street .
+
+# 399
+ZH:  我们能看到一些动物。
+HYP: we can see the money .
+REF: we can see some animals .
+
+# 400
+ZH:  这个声明和这个问题没有直接关系。
+HYP: this dress is a huge of the country .
+REF: this statement has no direct bearing upon the subject .
+
+# 401
+ZH:  接下来是最后一步，也是最重要的一步。
+HYP: there is a new company , in the world .
+REF: the next , final step is the most important one .
+
+# 402
+ZH:  我不会画一些画。
+HYP: i don't know . i have a month .
+REF: i can't draw any pictures .
+
+# 403
+ZH:  他冒着极大的危险抢救国家财产。
+HYP: he had a very important in his smile .
+REF: he took great risks to save the state property .
+
+# 404
+ZH:  美丽的王后，在这里没有人像你一样美丽。
+HYP: the boy has been out , you know , you know , it .
+REF: fair queen , at home there is none like thee .
+
+# 405
+ZH:  中国大型企业不敢直接进入俄市场。
+HYP: the keys is a collection of the world .
+REF: large chinese enterprises can not directly enter the russian market .
+
+# 406
+ZH:  他已经获得了最佳男演员奖。
+HYP: he has been in the wholeovery .
+REF: he has won the best actor award .
+
+# 407
+ZH:  你父亲有没有留给你什么建议？
+HYP: what do you think you think about ?
+REF: did your father leave you with any advice ?
+
+# 408
+ZH:  应征者：非常感谢您，我不会让您失望的。
+HYP: it is not happy , you want to see you , it .
+REF: thank you very much . i won't let you down .
+
+# 409
+ZH:  每次我们见到他，我们都和他讲话。
+HYP: we don't know , he was late at him .
+REF: whenever we meet him we speak to him .
+
+# 410
+ZH:  过去几年我们种了成千累万棵树。
+HYP: we have a new york of our country .
+REF: we've planted thousands of trees in the past few years .
+
+# 411
+ZH:  网络是被汇集的一组计算机群。
+HYP: the third grandovery is used to the country .
+REF: a network is a group of computers put together .
+
+# 412
+ZH:  他做进出口生意。
+HYP: he did not have a week .
+REF: he is in the import and export business .
+
+# 413
+ZH:  你可以选择这两本书中的任何一本。
+HYP: you can see the weather .
+REF: you can choose any of the two books .
+
+# 414
+ZH:  都停止了跳舞。此前他们从没有看到如此美丽的人。
+HYP: it is not enough to the house .
+REF: stopped dancing . never before had they seen someone so beautiful .
+
+# 415
+ZH:  如果我是你，我不会喝太多酒。
+HYP: if i don't know , you know , i know , i .
+REF: if i were you , i wouldn't drink too much .
+
+# 416
+ZH:  不是以你的名义。是以完美男人的名义。本。
+HYP: this is your advice of your owner .
+REF: not as you . as the perfect man , ben .
+
+# 417
+ZH:  你一定会发现在此工作是很令人兴奋的。
+HYP: you are going to pay a new job .
+REF: you must find it exciting working here .
+
+# 418
+ZH:  上街购物对我是一大威胁。
+HYP: i don't know what i have been here .
+REF: going to town to shop is a threat for me .
+
+# 419
+ZH:  委员会一月开两次会。
+HYP: the old man was full of the table .
+REF: the committee meets twice a month .
+
+# 420
+ZH:  天真愚蠢快乐美好。
+HYP: it is a little boy .
+REF: her behavior declared her an innocent girl .
+
+# 421
+ZH:  多摄取水分，如果汁、饮料等。
+HYP: yes , is a great deal , in the fire .
+REF: drink plenty of fluid , such as juice or drinks .
+
+# 422
+ZH:  虽然讲礼貌总会使你看起来很得体。
+HYP: if you don't know , in the windows .
+REF: although good manners always make you look good .
+
+# 423
+ZH:  再不来就看不见我啦。
+HYP: i don't know what i am late .
+REF: you might never see me again .
+
+# 424
+ZH:  我一定不能哭，要坚强一点。
+HYP: i don't know , but i know , it .
+REF: i must not cry , to be strong point .
+
+# 425
+ZH:  我不能踢足球了。今天是多么糟糕的一天啊！
+HYP: i don't know what he had a lot !
+REF: and i can't play football . what a bad day today !
+
+# 426
+ZH:  用英语翻译一句话：外国人学英语很难吗？
+HYP: how much is the meeting in the radio ?
+REF: is it easy for foreigners to learn english ?
+
+# 427
+ZH:  直到警察来了把她带回家。
+HYP: she had no longer when she will do her home .
+REF: until the police came to her home .
+
+# 428
+ZH:  美股开盘前，海外股市普遍上涨。
+HYP: finally , the paper is a new company .
+REF: stock rose overseas before the u . s . market opened .
+
+# 429
+ZH:  这个问题值得考虑。
+HYP: we have a great wall .
+REF: this problem deserves thinking about .
+
+# 430
+ZH:  他爱上了那个著名的女演员。
+HYP: he is a lot of them .
+REF: he lost his heart to the famous actress .
+
+# 431
+ZH:  我巴不得他马上滚蛋。
+HYP: i think he told him to him .
+REF: i wish he would pack himself off .
+
+# 432
+ZH:  我想逃离这个地球。
+HYP: i don't think it .
+REF: i want to escape from the earth .
+
+# 433
+ZH:  阅读是生理过程和心理过程的统一。
+HYP: the weather is a lot of the problem .
+REF: reading is the organic combination of physical and psychological process .
+
+# 434
+ZH:  我们可以按照你们的要求安排生产。
+HYP: we have a new york .
+REF: we can arrange production to your requirements .
+
+# 435
+ZH:  看看这张照片。
+HYP: it is a good time .
+REF: take a look at this picture .
+
+# 436
+ZH:  这些目录都是用成千上万的树木制作的。
+HYP: these measures have a new york .
+REF: all that paper adds up to millions of dead trees .
+
+# 437
+ZH:  他们会生活的很孤单，不会有快乐。
+HYP: they have a very nice , the window , though .
+REF: they will live lonely lives , and will also be unhappy .
+
+# 438
+ZH:  我不敢相信他在邀请我。
+HYP: i don't know what i don't know .
+REF: i couldn't believe he was asking me .
+
+# 439
+ZH:  最高人民法院周二证实了该报道。
+HYP: the second is an important role in the country .
+REF: the court on tuesday confirmed the report .
+
+# 440
+ZH:  女孩跑去游印。
+HYP: i have a lot of the house .
+REF: the girl went for a swim .
+
+# 441
+ZH:  我写了一封关于改革前景的信。
+HYP: i have a lot of the internetity of us .
+REF: i wrote a letter regarding the future of reform .
+
+# 442
+ZH:  事实上，我们都是生在罪里。
+HYP: no , we are in the police .
+REF: the truth is we were all born with sin .
+
+# 443
+ZH:  谎言掩盖不住事实。
+HYP: it is a great day .
+REF: lies cannot cover up facts .
+
+# 444
+ZH:  他很高兴曾帮助过她。
+HYP: he had a lot of him .
+REF: he was glad that he had held her hand .
+
+# 445
+ZH:  在街道上有一个小事故。
+HYP: in the world of the table .
+REF: there is a small accident in the street .
+
+# 446
+ZH:  我们好像早结束了几分钟课。
+HYP: we don't know what we have a lot of us .
+REF: we seem to have finish a few minutes early .
+
+# 447
+ZH:  全世界都知道这件事。
+HYP: the old man was left .
+REF: the whole world knows about it .
+
+# 448
+ZH:  我通常搬非常重的东西。
+HYP: i don't know what i know .
+REF: i often carry heavy things .
+
+# 449
+ZH:  她对于此不再争论了。
+HYP: she had a new york .
+REF: she didn't argue further about it .
+
+# 450
+ZH:  我们希望你们对这点适当注意。
+HYP: we don't want to have a new york .
+REF: we hope you'll give due attention to this point .
+
+# 451
+ZH:  每一次出海都是都是一个新的旅程。
+HYP: it is a new companys of the country .
+REF: every time he sets out again is a new journey .
+
+# 452
+ZH:  和我一起共进晚宴吧？
+HYP: what do i know what do ?
+REF: don't you want to have dinner with me ?
+
+# 453
+ZH:  是的，有一个大的有趣来临在。
+HYP: yes . yes , i have a lot of course .
+REF: yeah , there's a big fun coming in .
+
+# 454
+ZH:  只要察觉出是最好的，就去做。
+HYP: it is not so much , you want .
+REF: do whatever seems best .
+
+# 455
+ZH:  但如果二十年后它们灭绝了，那就是永远的消失。
+HYP: but i know , they are under them .
+REF: if they're gone in twenty , they'll be gone forever .
+
+# 456
+ZH:  她擅长游戏。
+HYP: she has a new york .
+REF: she is good at games .
+
+# 457
+ZH:  他的话靠不住。
+HYP: his mother was no longer .
+REF: you can't trust what he says .
+
+# 458
+ZH:  对于酒店住客是免费的。
+HYP: we have a lot of the worlds .
+REF: it's free for staying guests .
+
+# 459
+ZH:  可以告诉我主人的饮食和阅读习惯。
+HYP: you can tell me with me .
+REF: it talks about their eating habits , what they read .
+
+# 460
+ZH:  而今，离这个目标还有很长一段路要走。
+HYP: and , and a good books is a few of people .
+REF: so , it is a long way to go .
+
+# 461
+ZH:  我们生活在一个行星上，像这样的行星只有一个。
+HYP: we have a lot of the light of the life .
+REF: we live on a planet . there's just one of them .
+
+# 462
+ZH:  他的故事比我讲的有趣。
+HYP: he is a lot of my sister .
+REF: his stories are more interesting than those i told .
+
+# 463
+ZH:  他今天看到我时像是很生气。
+HYP: he told me to come to me .
+REF: he looked very black when he saw me today .
+
+# 464
+ZH:  她打算修几门课。
+HYP: she got a new york .
+REF: she's going to take some courses .
+
+# 465
+ZH:  他直到布莱克先生回来之前都住在这房子里。
+HYP: he had a lot of the police .
+REF: he lived in his house until mr . black come back .
+
+# 466
+ZH:  我有一个更好的计划推荐给委员会。
+HYP: i have a new york of the world .
+REF: i have a better plan to suggest to the board .
+
+# 467
+ZH:  今年的圣诞节是星期几呢？
+HYP: what do you think of the table ?
+REF: what day does christmas fall on this year ?
+
+# 468
+ZH:  操作简单，性能可靠。
+HYP: it is a new company .
+REF: easy operation and reliable performance .
+
+# 469
+ZH:  即使你不成功他们也会支持你。
+HYP: if you don't know what you want to do .
+REF: they'll stand by you even if you don't succeed .
+
+# 470
+ZH:  你不应该说你朋友的坏话。
+HYP: you don't know what you want to do .
+REF: you should not speak ill of your friend .
+
+# 471
+ZH:  确保您已经保存了所有更改。
+HYP: you should have a great deal .
+REF: ensure all your changes are saved .
+
+# 472
+ZH:  卷起并击碎。用于指浪。
+HYP: the police was a bits in the world .
+REF: to roll and break . used of waves .
+
+# 473
+ZH:  近代以来，经济学有了飞快的发展。
+HYP: the first , the first , the fire .
+REF: economics has developed quickly since modern history .
+
+# 474
+ZH:  地大有大量的空间可加建。
+HYP: there is a greatared to the best .
+REF: large lot with plenty room to add on .
+
+# 475
+ZH:  我们赶快离开这里吧！
+HYP: we want to see the same !
+REF: let's get the hell out of here !
+
+# 476
+ZH:  鸡蛋个儿可不小，可还是下出来了。
+HYP: there is not happy , but you know , not happy .
+REF: the egg seems too big , but it does come out .
+
+# 477
+ZH:  他的女朋友是汉语老师，在学院工作。
+HYP: his mother was a bit of the door .
+REF: his girlfriend is a chinese teacher , works at an college .
+
+# 478
+ZH:  当我在学校的时候我遇见了她。
+HYP: i don't know what i don't know .
+REF: i met her while i was at school .
+
+# 479
+ZH:  牛奶和果汁。鸡蛋和肉。
+HYP: the weather is tootenance . smith .
+REF: milk and juice . egg and meat .
+
+# 480
+ZH:  在这个社会中我们希望所有事情都很简单。
+HYP: we have a new york .
+REF: as a society we like things to be easy .
+
+# 481
+ZH:  现在我正在参观它的生产线。
+HYP: now i have a lot of the fire .
+REF: i'm on a production line now .
+
+# 482
+ZH:  我都等不及跟你见面了。
+HYP: i don't know what you want to do .
+REF: i couldn't wait to meet you .
+
+# 483
+ZH:  这些颜色很漂亮，但是质量怎么样？
+HYP: this is a lot of course ?
+REF: these colors are beautiful , but , how about quality ?
+
+# 484
+ZH:  你并不是我要找的人。
+HYP: you don't have a letter .
+REF: anyway , what we want is different .
+
+# 485
+ZH:  那个自信的家伙总是离群索居。
+HYP: it is a great way to the window .
+REF: that confident fellow always keeps himself to himself .
+
+# 486
+ZH:  在那河里游泳对你来说很危险。
+HYP: you are going to take your homework .
+REF: it's dangerous for you to swim in the river .
+
+# 487
+ZH:  我认为你不能来，你可能来吗？
+HYP: do you know , you want to you here ?
+REF: i don't suppose you can come , can you ?
+
+# 488
+ZH:  我们等多久才能把妈妈接着？
+HYP: shall we have a new york ?
+REF: how long shall we wait to pick up mom ?
+
+# 489
+ZH:  不过，我好像也听不太明白。
+HYP: mr , i know , i know , i know .
+REF: but i don't seem to quite understand what they said .
+
+# 490
+ZH:  许多妇女非常注意服装的式样。
+HYP: many people have a lot of the window .
+REF: many women have an eye out for clothes .
+
+# 491
+ZH:  我必定您会女表哪个牌子好喜欢它。
+HYP: i don't know what you have a lot of them .
+REF: i'm sure you'll enjoy it .
+
+# 492
+ZH:  除了约翰外，我们都去了。
+HYP: she is not a lot of course .
+REF: we all went except john .
+
+# 493
+ZH:  别担心！他们还剩五分钟。
+HYP: let's have a lot of them .
+REF: don't worried ! they still have five minutes left .
+
+# 494
+ZH:  最好的照片将会在网站发表。
+HYP: there is a new company of the table .
+REF: we will show off the best on this website .
+
+# 495
+ZH:  这男孩得救了。
+HYP: this is a good letter .
+REF: this boy has saved .
+
+# 496
+ZH:  你的汉语很棒。
+HYP: your advice . i have been here .
+REF: your chinese is very good .
+
+# 497
+ZH:  我准备考英语了。
+HYP: i have a new york .
+REF: i prepare to take my english test .
+
+# 498
+ZH:  事实上我深为自己是一个无神论者而自豪。
+HYP: i don't know what i have been in the house .
+REF: i am quite proud to be one , in fact .
+
+# 499
+ZH:  你们公司有多少雇员？
+HYP: do you have a new york ?
+REF: how many employees does it have ?
+
+# 500
+ZH:  警察把他所说的每句话都记了下来。
+HYP: the police went at his wife , he said .
+REF: the policeman noted down every word he said .
+

@@ -1,0 +1,15 @@
+{
+  "num_samples": 9000,
+  "batch_size": 32,
+  "num_batches": 282,
+  "avg_src_tokens_per_batch": 372.031914893617,
+  "avg_tgt_tokens_per_batch": 376.63475177304963,
+  "avg_src_slots_per_batch": 596.9078014184397,
+  "avg_tgt_slots_per_batch": 536.4255319148937,
+  "src_pad_ratio": 0.37673470842640555,
+  "tgt_pad_ratio": 0.2978806388492252,
+  "total_src_real": 104913,
+  "total_tgt_real": 106211,
+  "src_vocab_size": 3200,
+  "tgt_vocab_size": 3200
+}
