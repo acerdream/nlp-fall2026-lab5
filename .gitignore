@@ -1,0 +1,27 @@
+# 数据与模型检查点不提交
+data/
+output/
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# LaTeX 中间产物
+report/*.aux
+report/*.bbl
+report/*.blg
+report/*.log
+report/*.out
+report/*.toc
+report/*.synctex.gz
+report/*.fls
+report/*.fdb_latexmk
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
